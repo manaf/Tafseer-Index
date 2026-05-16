@@ -1,0 +1,1186 @@
+{
+  "version": 1,
+  "updated": "2026-05-16",
+  "source": "qul.tarteel.ai",
+  "languages": {
+    "ar": {
+      "name_en": "Arabic",
+      "name_native": "العربية",
+      "direction": "rtl",
+      "repos": [
+        "Tahfeez-Quran-Tafseer",
+        "Tafseer-Arabic-Other"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 22,
+          "slug": "ibn-kathir",
+          "name": "Tafsir Ibn Kathir",
+          "repo": "Tahfeez-Quran-Tafseer",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tahfeez-Quran-Tafseer@main/ibn-kathir/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tahfeez-Quran-Tafseer/main/ibn-kathir/{juz}.json"
+        },
+        {
+          "qul_id": 23,
+          "slug": "qurtubi",
+          "name": "Tafseer Al Qurtubi",
+          "repo": "Tahfeez-Quran-Tafseer",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tahfeez-Quran-Tafseer@main/qurtubi/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tahfeez-Quran-Tafseer/main/qurtubi/{juz}.json"
+        },
+        {
+          "qul_id": 24,
+          "slug": "al-saadi-arabic",
+          "name": "Tafseer Al Saadi - Arabic",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-saadi-arabic/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-saadi-arabic/{juz}.json"
+        },
+        {
+          "qul_id": 25,
+          "slug": "al-tahrir-wa-al-tanwir",
+          "name": "Tafsir al-Tahrir wa al-Tanwir",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-tahrir-wa-al-tanwir/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-tahrir-wa-al-tanwir/{juz}.json"
+        },
+        {
+          "qul_id": 26,
+          "slug": "al-wasit",
+          "name": "Tafsir Al Wasit",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-wasit/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-wasit/{juz}.json"
+        },
+        {
+          "qul_id": 27,
+          "slug": "al-baghawi",
+          "name": "Tafseer Al-Baghawi",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-baghawi/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-baghawi/{juz}.json"
+        },
+        {
+          "qul_id": 37,
+          "slug": "tabari",
+          "name": "Tafsir al-Tabari",
+          "repo": "Tahfeez-Quran-Tafseer",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tahfeez-Quran-Tafseer@main/tabari/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tahfeez-Quran-Tafseer/main/tabari/{juz}.json"
+        },
+        {
+          "qul_id": 38,
+          "slug": "muyassar",
+          "name": "Tafsir Muyassar",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/muyassar/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/muyassar/{juz}.json"
+        },
+        {
+          "qul_id": 250,
+          "slug": "asseraj-fi-bayan-gharib-alquran",
+          "name": "Asseraj fi Bayan Gharib AlQuran",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/asseraj-fi-bayan-gharib-alquran/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/asseraj-fi-bayan-gharib-alquran/{juz}.json"
+        },
+        {
+          "qul_id": 251,
+          "slug": "arabic-al-mukhtasar-in-interpreting-the-noble-quran",
+          "name": "Arabic Al-Mukhtasar in interpreting the Noble Quran",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/arabic-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/arabic-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json"
+        },
+        {
+          "qul_id": 308,
+          "slug": "as-saadi",
+          "name": "Tafsir As-Saadi",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/as-saadi/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/as-saadi/{juz}.json"
+        },
+        {
+          "qul_id": 486,
+          "slug": "ibn-uthaymeen",
+          "name": "Tafsir Ibn Uthaymeen",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/ibn-uthaymeen/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/ibn-uthaymeen/{juz}.json"
+        },
+        {
+          "qul_id": 487,
+          "slug": "tahlil-kalimat-al-quran",
+          "name": "Tahlil Kalimat al-Qur'an",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/tahlil-kalimat-al-quran/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/tahlil-kalimat-al-quran/{juz}.json"
+        },
+        {
+          "qul_id": 488,
+          "slug": "al-razi",
+          "name": "Tafsir Al-Razi",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-razi/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-razi/{juz}.json"
+        },
+        {
+          "qul_id": 489,
+          "slug": "al-wajiz-wahidi",
+          "name": "Al-Wajiz Wahidi",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-wajiz-wahidi/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-wajiz-wahidi/{juz}.json"
+        },
+        {
+          "qul_id": 490,
+          "slug": "makhi",
+          "name": "Tafsir Makhi",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/makhi/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/makhi/{juz}.json"
+        },
+        {
+          "qul_id": 491,
+          "slug": "ibn-juzay",
+          "name": "Tafsir Ibn Juzay",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/ibn-juzay/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/ibn-juzay/{juz}.json"
+        },
+        {
+          "qul_id": 492,
+          "slug": "mawsooat-al-tafsir-al-mathoor",
+          "name": "Mawsoo'at Al-Tafsir Al-Ma'thoor",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/mawsooat-al-tafsir-al-mathoor/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/mawsooat-al-tafsir-al-mathoor/{juz}.json"
+        },
+        {
+          "qul_id": 493,
+          "slug": "al-durr-al-manthur",
+          "name": "Al-Durr Al-Manthur",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-durr-al-manthur/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-durr-al-manthur/{juz}.json"
+        },
+        {
+          "qul_id": 494,
+          "slug": "fath-al-qadir-al-shawkani",
+          "name": "Fath Al-Qadir Al-Shawkani",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/fath-al-qadir-al-shawkani/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/fath-al-qadir-al-shawkani/{juz}.json"
+        },
+        {
+          "qul_id": 495,
+          "slug": "fath-al-bayan-li-al-qanuji",
+          "name": "Fath Al-Bayan li Al-Qanuji",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/fath-al-bayan-li-al-qanuji/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/fath-al-bayan-li-al-qanuji/{juz}.json"
+        },
+        {
+          "qul_id": 496,
+          "slug": "ibn-al-jawzi",
+          "name": "Tafsir Ibn Al-Jawzi",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/ibn-al-jawzi/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/ibn-al-jawzi/{juz}.json"
+        },
+        {
+          "qul_id": 497,
+          "slug": "abi-al-suaood",
+          "name": "Tafsir Abi Al-Suaood",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/abi-al-suaood/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/abi-al-suaood/{juz}.json"
+        },
+        {
+          "qul_id": 498,
+          "slug": "nazam-al-durar-al-biqai",
+          "name": "Nazam Al-Durar Al-Biqa'i",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/nazam-al-durar-al-biqai/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/nazam-al-durar-al-biqai/{juz}.json"
+        },
+        {
+          "qul_id": 499,
+          "slug": "ibn-abi-zamanin",
+          "name": "Tafsir Ibn Abi Zamanin",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/ibn-abi-zamanin/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/ibn-abi-zamanin/{juz}.json"
+        },
+        {
+          "qul_id": 500,
+          "slug": "ibn-al-qayyim",
+          "name": "Tafsir Ibn Al-Qayyim",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/ibn-al-qayyim/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/ibn-al-qayyim/{juz}.json"
+        },
+        {
+          "qul_id": 501,
+          "slug": "al-alusi",
+          "name": "Tafsir Al-Alusi",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-alusi/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-alusi/{juz}.json"
+        },
+        {
+          "qul_id": 502,
+          "slug": "ibn-abi-hatim",
+          "name": "Tafsir Ibn Abi Hatim",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/ibn-abi-hatim/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/ibn-abi-hatim/{juz}.json"
+        },
+        {
+          "qul_id": 504,
+          "slug": "iraab-al-muyassar",
+          "name": "Iraab Al-Muyassar",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/iraab-al-muyassar/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/iraab-al-muyassar/{juz}.json"
+        },
+        {
+          "qul_id": 505,
+          "slug": "al-dur-al-masun-lil-samin-al-halabi",
+          "name": "Al Dur Al Masun Lil Samin Al Halabi",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-dur-al-masun-lil-samin-al-halabi/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-dur-al-masun-lil-samin-al-halabi/{juz}.json"
+        },
+        {
+          "qul_id": 506,
+          "slug": "irab-al-quran-li-al-darwish",
+          "name": "I'rab Al Quran li Al Darwish",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/irab-al-quran-li-al-darwish/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/irab-al-quran-li-al-darwish/{juz}.json"
+        },
+        {
+          "qul_id": 507,
+          "slug": "abu-bakr-jabir-al-jazairi",
+          "name": "Abu Bakr Jabir Al-Jazairi",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/abu-bakr-jabir-al-jazairi/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/abu-bakr-jabir-al-jazairi/{juz}.json"
+        },
+        {
+          "qul_id": 508,
+          "slug": "jamia-al-bayan-aliji",
+          "name": "Jamia Al-Bayan AlIji",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/jamia-al-bayan-aliji/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/jamia-al-bayan-aliji/{juz}.json"
+        },
+        {
+          "qul_id": 509,
+          "slug": "al-muharrar-al-wajiz-ibn-atiyyah",
+          "name": "Al-Muharrar Al-Wajiz Ibn Atiyyah",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-muharrar-al-wajiz-ibn-atiyyah/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-muharrar-al-wajiz-ibn-atiyyah/{juz}.json"
+        },
+        {
+          "qul_id": 510,
+          "slug": "al-kashshaf-al-zamakhshari",
+          "name": "Al-Kashshaf Al-Zamakhshari",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-kashshaf-al-zamakhshari/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-kashshaf-al-zamakhshari/{juz}.json"
+        },
+        {
+          "qul_id": 511,
+          "slug": "al-basit",
+          "name": "Al-Basit",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-basit/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-basit/{juz}.json"
+        },
+        {
+          "qul_id": 512,
+          "slug": "al-mawardi",
+          "name": "Tafsir Al-Mawardi",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-mawardi/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-mawardi/{juz}.json"
+        },
+        {
+          "qul_id": 513,
+          "slug": "al-samarqandi",
+          "name": "Tafsir Al-Samarqandi",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-samarqandi/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-samarqandi/{juz}.json"
+        },
+        {
+          "qul_id": 514,
+          "slug": "al-nasafi",
+          "name": "Tafsir Al-Nasafi",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-nasafi/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-nasafi/{juz}.json"
+        },
+        {
+          "qul_id": 515,
+          "slug": "alrab-al-quran-li-daas",
+          "name": "Alrab Al-Quran li-Da'as",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/alrab-al-quran-li-daas/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/alrab-al-quran-li-daas/{juz}.json"
+        },
+        {
+          "qul_id": 516,
+          "slug": "al-lubab-fi-ulum-al-kitab",
+          "name": "Al Lubab fi Ulum Al Kitab",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-lubab-fi-ulum-al-kitab/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-lubab-fi-ulum-al-kitab/{juz}.json"
+        },
+        {
+          "qul_id": 517,
+          "slug": "tadabbur-wa-amal",
+          "name": "Tadabbur wa 'Amal",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/tadabbur-wa-amal/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/tadabbur-wa-amal/{juz}.json"
+        },
+        {
+          "qul_id": 518,
+          "slug": "al-baydawi",
+          "name": "Tafsir Al-Baydawi",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-baydawi/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-baydawi/{juz}.json"
+        },
+        {
+          "qul_id": 519,
+          "slug": "al-muyassar-fi-al-gharib",
+          "name": "Al-Muyassar fi Al-Gharib",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-muyassar-fi-al-gharib/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-muyassar-fi-al-gharib/{juz}.json"
+        },
+        {
+          "qul_id": 520,
+          "slug": "al-jadwal-fi-irab-al-quran",
+          "name": "Al Jadwal fi I'rab Al Quran",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-jadwal-fi-irab-al-quran/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-jadwal-fi-irab-al-quran/{juz}.json"
+        },
+        {
+          "qul_id": 521,
+          "slug": "al-qiraat-al-mawsooah-al-quraniyyah",
+          "name": "Al Qira'at Al Mawsoo'ah Al Qur'aniyyah",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-qiraat-al-mawsooah-al-quraniyyah/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-qiraat-al-mawsooah-al-quraniyyah/{juz}.json"
+        },
+        {
+          "qul_id": 522,
+          "slug": "al-nashr-li-ibn-al-jazari",
+          "name": "Al Nashr li Ibn Al Jazari",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-nashr-li-ibn-al-jazari/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-nashr-li-ibn-al-jazari/{juz}.json"
+        },
+        {
+          "qul_id": 523,
+          "slug": "jalalayn",
+          "name": "Tafsir Jalalayn",
+          "repo": "Tahfeez-Quran-Tafseer",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tahfeez-Quran-Tafseer@main/jalalayn/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tahfeez-Quran-Tafseer/main/jalalayn/{juz}.json"
+        },
+        {
+          "qul_id": 524,
+          "slug": "mahasin-al-tawil-al-qasimi",
+          "name": "Mahasin Al-Ta'wil Al-Qasimi",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/mahasin-al-tawil-al-qasimi/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/mahasin-al-tawil-al-qasimi/{juz}.json"
+        },
+        {
+          "qul_id": 525,
+          "slug": "adwa-al-bayan",
+          "name": "Adwa' Al-Bayan",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/adwa-al-bayan/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/adwa-al-bayan/{juz}.json"
+        },
+        {
+          "qul_id": 526,
+          "slug": "al-bahr-al-muhit",
+          "name": "Al-Bahr Al-Muhit",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-bahr-al-muhit/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-bahr-al-muhit/{juz}.json"
+        },
+        {
+          "qul_id": 527,
+          "slug": "al-thaalibi",
+          "name": "Tafsir Al-Tha'alibi",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-thaalibi/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-thaalibi/{juz}.json"
+        },
+        {
+          "qul_id": 528,
+          "slug": "al-thaalibi-v2",
+          "name": "Tafsir Al-Tha'alibi",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-thaalibi-v2/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-thaalibi-v2/{juz}.json"
+        },
+        {
+          "qul_id": 529,
+          "slug": "al-samani",
+          "name": "Tafsir Al-Sam'ani",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-samani/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-samani/{juz}.json"
+        },
+        {
+          "qul_id": 563,
+          "slug": "ayah-dependency-graphs",
+          "name": "Ayah Dependency Graphs",
+          "repo": "Tafseer-Arabic-Other",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/ayah-dependency-graphs/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/ayah-dependency-graphs/{juz}.json"
+        }
+      ]
+    },
+    "bn": {
+      "name_en": "Bengali",
+      "name_native": "বাংলা",
+      "direction": "ltr",
+      "repos": [
+        "Tafseer-Bengali"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 31,
+          "slug": "ibn-kathir",
+          "name": "Tafseer ibn Kathir",
+          "repo": "Tafseer-Bengali",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Bengali@main/ibn-kathir/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Bengali/main/ibn-kathir/{juz}.json"
+        },
+        {
+          "qul_id": 32,
+          "slug": "ahsanul-bayaan",
+          "name": "Tafsir Ahsanul Bayaan",
+          "repo": "Tafseer-Bengali",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Bengali@main/ahsanul-bayaan/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Bengali/main/ahsanul-bayaan/{juz}.json"
+        },
+        {
+          "qul_id": 33,
+          "slug": "abu-bakr-zakaria",
+          "name": "Tafsir Abu Bakr Zakaria",
+          "repo": "Tafseer-Bengali",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Bengali@main/abu-bakr-zakaria/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Bengali/main/abu-bakr-zakaria/{juz}.json"
+        },
+        {
+          "qul_id": 39,
+          "slug": "fathul-majid",
+          "name": "Tafsir Fathul Majid",
+          "repo": "Tafseer-Bengali",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Bengali@main/fathul-majid/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Bengali/main/fathul-majid/{juz}.json"
+        },
+        {
+          "qul_id": 267,
+          "slug": "bengali-abridged-explanation-of-the-quran",
+          "name": "Bengali Abridged Explanation of the Quran",
+          "repo": "Tafseer-Bengali",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Bengali@main/bengali-abridged-explanation-of-the-quran/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Bengali/main/bengali-abridged-explanation-of-the-quran/{juz}.json"
+        }
+      ]
+    },
+    "ur": {
+      "name_en": "Urdu",
+      "name_native": "اردو",
+      "direction": "rtl",
+      "repos": [
+        "Tafseer-Urdu"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 28,
+          "slug": "fi-zilal-al-quran",
+          "name": "Fi Zilal al-Quran",
+          "repo": "Tafseer-Urdu",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Urdu@main/fi-zilal-al-quran/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Urdu/main/fi-zilal-al-quran/{juz}.json"
+        },
+        {
+          "qul_id": 29,
+          "slug": "bayan-ul-quran",
+          "name": "Tafsir Bayan ul Quran",
+          "repo": "Tafseer-Urdu",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Urdu@main/bayan-ul-quran/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Urdu/main/bayan-ul-quran/{juz}.json"
+        },
+        {
+          "qul_id": 30,
+          "slug": "ibn-kathir",
+          "name": "Tafsir Ibn Kathir",
+          "repo": "Tafseer-Urdu",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Urdu@main/ibn-kathir/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Urdu/main/ibn-kathir/{juz}.json"
+        },
+        {
+          "qul_id": 43,
+          "slug": "tazkirul-quranmaulana-wahiduddin-khan",
+          "name": "Tazkirul Quran(Maulana Wahiduddin Khan)",
+          "repo": "Tafseer-Urdu",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Urdu@main/tazkirul-quranmaulana-wahiduddin-khan/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Urdu/main/tazkirul-quranmaulana-wahiduddin-khan/{juz}.json"
+        },
+        {
+          "qul_id": 309,
+          "slug": "as-saadi-urdu",
+          "name": "Tafsir As-Saadi - Urdu",
+          "repo": "Tafseer-Urdu",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Urdu@main/as-saadi-urdu/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Urdu/main/as-saadi-urdu/{juz}.json"
+        }
+      ]
+    },
+    "en": {
+      "name_en": "English",
+      "name_native": "English",
+      "direction": "ltr",
+      "repos": [
+        "Tafseer-English"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 34,
+          "slug": "maarif-ul-quran",
+          "name": "Maarif-ul-Quran",
+          "repo": "Tafseer-English",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-English@main/maarif-ul-quran/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-English/main/maarif-ul-quran/{juz}.json"
+        },
+        {
+          "qul_id": 35,
+          "slug": "ibn-kathir",
+          "name": "Tafsir Ibn Kathir",
+          "repo": "Tafseer-English",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-English@main/ibn-kathir/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-English/main/ibn-kathir/{juz}.json"
+        },
+        {
+          "qul_id": 42,
+          "slug": "tazkirul-quranmaulana-wahiduddin-khan",
+          "name": "Tazkirul Quran(Maulana Wahiduddin Khan)",
+          "repo": "Tafseer-English",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-English@main/tazkirul-quranmaulana-wahiduddin-khan/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-English/main/tazkirul-quranmaulana-wahiduddin-khan/{juz}.json"
+        },
+        {
+          "qul_id": 266,
+          "slug": "english-al-mukhtasar",
+          "name": "English Al-Mukhtasar",
+          "repo": "Tafseer-English",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-English@main/english-al-mukhtasar/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-English/main/english-al-mukhtasar/{juz}.json"
+        }
+      ]
+    },
+    "ru": {
+      "name_en": "Russian",
+      "name_native": "Русский",
+      "direction": "ltr",
+      "repos": [
+        "Tafseer-Russian"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 36,
+          "slug": "al-saadi-russian",
+          "name": "Tafseer Al Saadi - Russian",
+          "repo": "Tafseer-Russian",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Russian@main/al-saadi-russian/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Russian/main/al-saadi-russian/{juz}.json"
+        },
+        {
+          "qul_id": 262,
+          "slug": "russian-al-mukhtasar",
+          "name": "Russian Al-Mukhtasar",
+          "repo": "Tafseer-Russian",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Russian@main/russian-al-mukhtasar/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Russian/main/russian-al-mukhtasar/{juz}.json"
+        },
+        {
+          "qul_id": 307,
+          "slug": "ibne-kathir",
+          "name": "Tafsir Ibne Kathir",
+          "repo": "Tafseer-Russian",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Russian@main/ibne-kathir/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Russian/main/ibne-kathir/{juz}.json"
+        },
+        {
+          "qul_id": 310,
+          "slug": "as-saadi",
+          "name": "Tafsir As-Saadi",
+          "repo": "Tafseer-Russian",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Russian@main/as-saadi/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Russian/main/as-saadi/{juz}.json"
+        }
+      ]
+    },
+    "id": {
+      "name_en": "Indonesian",
+      "name_native": "Bahasa Indonesia",
+      "direction": "ltr",
+      "repos": [
+        "Tafseer-Indonesian"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 260,
+          "slug": "indoniesua-al-mukhtasar-in-interpreting-the-noble-quran",
+          "name": "Indoniesua Al-Mukhtasar in Interpreting the Noble Quran",
+          "repo": "Tafseer-Indonesian",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Indonesian@main/indoniesua-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Indonesian/main/indoniesua-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json"
+        },
+        {
+          "qul_id": 503,
+          "slug": "as-saadi-indonesian",
+          "name": "Tafsir As-Saadi - Indonesian",
+          "repo": "Tafseer-Indonesian",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Indonesian@main/as-saadi-indonesian/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Indonesian/main/as-saadi-indonesian/{juz}.json"
+        }
+      ]
+    },
+    "tr": {
+      "name_en": "Turkish",
+      "name_native": "Türkçe",
+      "direction": "ltr",
+      "repos": [
+        "Tafseer-Turkish"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 258,
+          "slug": "turkish-al-mukhtasar-in-interpreting-the-noble-quran",
+          "name": "Turkish Al-Mukhtasar in Interpreting the Noble Quran",
+          "repo": "Tafseer-Turkish",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Turkish@main/turkish-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Turkish/main/turkish-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json"
+        },
+        {
+          "qul_id": 306,
+          "slug": "ibne-kathir",
+          "name": "Tafsir Ibne Kathir",
+          "repo": "Tafseer-Turkish",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Turkish@main/ibne-kathir/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Turkish/main/ibne-kathir/{juz}.json"
+        },
+        {
+          "qul_id": 484,
+          "slug": "as-saadi-turkish",
+          "name": "Tafsir As-Saadi - Turkish",
+          "repo": "Tafseer-Turkish",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Turkish@main/as-saadi-turkish/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Turkish/main/as-saadi-turkish/{juz}.json"
+        }
+      ]
+    },
+    "ku": {
+      "name_en": "Kurdish",
+      "name_native": "Kurdî",
+      "direction": "ltr",
+      "repos": [
+        "Tafseer-Kurdish"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 40,
+          "slug": "rebar-kurdish-tafsir",
+          "name": "Rebar Kurdish Tafsir",
+          "repo": "Tafseer-Kurdish",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Kurdish@main/rebar-kurdish-tafsir/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Kurdish/main/rebar-kurdish-tafsir/{juz}.json"
+        },
+        {
+          "qul_id": 542,
+          "slug": "kurdish-mokhtasar",
+          "name": "Kurdish Mokhtasar",
+          "repo": "Tafseer-Kurdish",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Kurdish@main/kurdish-mokhtasar/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Kurdish/main/kurdish-mokhtasar/{juz}.json"
+        }
+      ]
+    },
+    "fa": {
+      "name_en": "Persian",
+      "name_native": "فارسی",
+      "direction": "rtl",
+      "repos": [
+        "Tafseer-Persian"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 263,
+          "slug": "persian-al-mukhtasar-in-interpreting-the-noble-quran",
+          "name": "Persian Al-Mukhtasar in interpreting the Noble Quran",
+          "repo": "Tafseer-Persian",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Persian@main/persian-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Persian/main/persian-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json"
+        },
+        {
+          "qul_id": 485,
+          "slug": "as-saadi-persian",
+          "name": "Tafsir As-Saadi - Persian",
+          "repo": "Tafseer-Persian",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Persian@main/as-saadi-persian/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Persian/main/as-saadi-persian/{juz}.json"
+        }
+      ]
+    },
+    "sq": {
+      "name_en": "Albanian",
+      "name_native": "Shqip",
+      "direction": "ltr",
+      "repos": [
+        "Tafseer-Albanian"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 283,
+          "slug": "as-saadi",
+          "name": "Tafsir As-Saadi",
+          "repo": "Tafseer-Albanian",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Albanian@main/as-saadi/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Albanian/main/as-saadi/{juz}.json"
+        }
+      ]
+    },
+    "as": {
+      "name_en": "Assamese",
+      "name_native": "অসমীয়া",
+      "direction": "ltr",
+      "repos": [
+        "Tafseer-Assamese"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 255,
+          "slug": "assamese-abridged-explanation-of-the-quran",
+          "name": "Assamese Abridged Explanation of the Quran",
+          "repo": "Tafseer-Assamese",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Assamese@main/assamese-abridged-explanation-of-the-quran/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Assamese/main/assamese-abridged-explanation-of-the-quran/{juz}.json"
+        }
+      ]
+    },
+    "az": {
+      "name_en": "Azeri",
+      "name_native": "Azərbaycan",
+      "direction": "ltr",
+      "repos": [
+        "Tafseer-Azeri"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 537,
+          "slug": "azeri-mokhtasar",
+          "name": "Azeri Mokhtasar",
+          "repo": "Tafseer-Azeri",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Azeri@main/azeri-mokhtasar/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Azeri/main/azeri-mokhtasar/{juz}.json"
+        }
+      ]
+    },
+    "bs": {
+      "name_en": "Bosnian",
+      "name_native": "Bosanski",
+      "direction": "ltr",
+      "repos": [
+        "Tafseer-Bosnian"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 252,
+          "slug": "bosnian-abridged-explanation-of-the-quran",
+          "name": "Bosnian Abridged Explanation of the Quran",
+          "repo": "Tafseer-Bosnian",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Bosnian@main/bosnian-abridged-explanation-of-the-quran/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Bosnian/main/bosnian-abridged-explanation-of-the-quran/{juz}.json"
+        }
+      ]
+    },
+    "zh": {
+      "name_en": "Chinese",
+      "name_native": "中文",
+      "direction": "ltr",
+      "repos": [
+        "Tafseer-Chinese"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 264,
+          "slug": "chinese-abridged-explanation-of-the-quran",
+          "name": "Chinese Abridged Explanation of the Quran",
+          "repo": "Tafseer-Chinese",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Chinese@main/chinese-abridged-explanation-of-the-quran/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Chinese/main/chinese-abridged-explanation-of-the-quran/{juz}.json"
+        }
+      ]
+    },
+    "tl": {
+      "name_en": "Filipino",
+      "name_native": "Filipino",
+      "direction": "ltr",
+      "repos": [
+        "Tafseer-Filipino"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 254,
+          "slug": "filipino-tagalog-al-mukhtasar-in-interpreting-the-noble-quran",
+          "name": "Filipino (Tagalog) Al-Mukhtasar in interpreting the Noble Quran",
+          "repo": "Tafseer-Filipino",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Filipino@main/filipino-tagalog-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Filipino/main/filipino-tagalog-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json"
+        }
+      ]
+    },
+    "fr": {
+      "name_en": "French",
+      "name_native": "Français",
+      "direction": "ltr",
+      "repos": [
+        "Tafseer-French"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 259,
+          "slug": "french-abridged-explanation-of-the-quran",
+          "name": "French Abridged Explanation of the Quran",
+          "repo": "Tafseer-French",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-French@main/french-abridged-explanation-of-the-quran/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-French/main/french-abridged-explanation-of-the-quran/{juz}.json"
+        }
+      ]
+    },
+    "ff": {
+      "name_en": "Fulani",
+      "name_native": "Fulfulde",
+      "direction": "ltr",
+      "repos": [
+        "Tafseer-Fulani"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 534,
+          "slug": "fulani-mokhtasar",
+          "name": "Fulani Mokhtasar",
+          "repo": "Tafseer-Fulani",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Fulani@main/fulani-mokhtasar/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Fulani/main/fulani-mokhtasar/{juz}.json"
+        }
+      ]
+    },
+    "hi": {
+      "name_en": "Hindi",
+      "name_native": "हिन्दी",
+      "direction": "ltr",
+      "repos": [
+        "Tafseer-Hindi"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 535,
+          "slug": "hindi-mokhtasar",
+          "name": "Hindi Mokhtasar",
+          "repo": "Tafseer-Hindi",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Hindi@main/hindi-mokhtasar/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Hindi/main/hindi-mokhtasar/{juz}.json"
+        }
+      ]
+    },
+    "it": {
+      "name_en": "Italian",
+      "name_native": "Italiano",
+      "direction": "ltr",
+      "repos": [
+        "Tafseer-Italian"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 253,
+          "slug": "italian-al-mukhtasar-in-interpreting-the-noble-quran",
+          "name": "Italian Al-Mukhtasar in interpreting the Noble Quran",
+          "repo": "Tafseer-Italian",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Italian@main/italian-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Italian/main/italian-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json"
+        }
+      ]
+    },
+    "ja": {
+      "name_en": "Japanese",
+      "name_native": "日本語",
+      "direction": "ltr",
+      "repos": [
+        "Tafseer-Japanese"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 265,
+          "slug": "japanese-abridged-explanation-of-the-quran",
+          "name": "Japanese Abridged Explanation of the Quran",
+          "repo": "Tafseer-Japanese",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Japanese@main/japanese-abridged-explanation-of-the-quran/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Japanese/main/japanese-abridged-explanation-of-the-quran/{juz}.json"
+        }
+      ]
+    },
+    "km": {
+      "name_en": "Khmer",
+      "name_native": "ខ្មែរ",
+      "direction": "ltr",
+      "repos": [
+        "Tafseer-Khmer"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 257,
+          "slug": "khmer-abridged-explanation-of-the-quran",
+          "name": "Khmer Abridged Explanation of the Quran",
+          "repo": "Tafseer-Khmer",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Khmer@main/khmer-abridged-explanation-of-the-quran/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Khmer/main/khmer-abridged-explanation-of-the-quran/{juz}.json"
+        }
+      ]
+    },
+    "ky": {
+      "name_en": "Kyrgyz",
+      "name_native": "Кыргызча",
+      "direction": "ltr",
+      "repos": [
+        "Tafseer-Kyrgyz"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 536,
+          "slug": "kyrgyz-mokhtasar",
+          "name": "Kyrgyz Mokhtasar",
+          "repo": "Tafseer-Kyrgyz",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Kyrgyz@main/kyrgyz-mokhtasar/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Kyrgyz/main/kyrgyz-mokhtasar/{juz}.json"
+        }
+      ]
+    },
+    "ml": {
+      "name_en": "Malayalam",
+      "name_native": "മലയാളം",
+      "direction": "ltr",
+      "repos": [
+        "Tafseer-Malayalam"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 256,
+          "slug": "malayalam-abridged-explanation-of-the-quran",
+          "name": "Malayalam Abridged Explanation of the Quran",
+          "repo": "Tafseer-Malayalam",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Malayalam@main/malayalam-abridged-explanation-of-the-quran/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Malayalam/main/malayalam-abridged-explanation-of-the-quran/{juz}.json"
+        }
+      ]
+    },
+    "ps": {
+      "name_en": "Pashto",
+      "name_native": "پښتو",
+      "direction": "rtl",
+      "repos": [
+        "Tafseer-Pashto"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 533,
+          "slug": "pashto-mokhtasar",
+          "name": "Pashto Mokhtasar",
+          "repo": "Tafseer-Pashto",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Pashto@main/pashto-mokhtasar/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Pashto/main/pashto-mokhtasar/{juz}.json"
+        }
+      ]
+    },
+    "sr": {
+      "name_en": "Serbian",
+      "name_native": "Српски",
+      "direction": "ltr",
+      "repos": [
+        "Tafseer-Serbian"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 543,
+          "slug": "serbian-mokhtasar",
+          "name": "Serbian Mokhtasar",
+          "repo": "Tafseer-Serbian",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Serbian@main/serbian-mokhtasar/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Serbian/main/serbian-mokhtasar/{juz}.json"
+        }
+      ]
+    },
+    "si": {
+      "name_en": "Sinhala",
+      "name_native": "සිංහල",
+      "direction": "ltr",
+      "repos": [
+        "Tafseer-Sinhala"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 453,
+          "slug": "sinhalese-mokhtasar",
+          "name": "Sinhalese Mokhtasar",
+          "repo": "Tafseer-Sinhala",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Sinhala@main/sinhalese-mokhtasar/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Sinhala/main/sinhalese-mokhtasar/{juz}.json"
+        }
+      ]
+    },
+    "es": {
+      "name_en": "Spanish",
+      "name_native": "Español",
+      "direction": "ltr",
+      "repos": [
+        "Tafseer-Spanish"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 268,
+          "slug": "spanish-abridged-explanation-of-the-quran",
+          "name": "Spanish Abridged Explanation of the Quran",
+          "repo": "Tafseer-Spanish",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Spanish@main/spanish-abridged-explanation-of-the-quran/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Spanish/main/spanish-abridged-explanation-of-the-quran/{juz}.json"
+        }
+      ]
+    },
+    "ta": {
+      "name_en": "Tamil",
+      "name_native": "தமிழ்",
+      "direction": "ltr",
+      "repos": [
+        "Tafseer-Tamil"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 554,
+          "slug": "tamil-mokhtasar",
+          "name": "Tamil Mokhtasar",
+          "repo": "Tafseer-Tamil",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Tamil@main/tamil-mokhtasar/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Tamil/main/tamil-mokhtasar/{juz}.json"
+        }
+      ]
+    },
+    "te": {
+      "name_en": "Telugu",
+      "name_native": "తెలుగు",
+      "direction": "ltr",
+      "repos": [
+        "Tafseer-Telugu"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 540,
+          "slug": "telugu-mokhtasar",
+          "name": "Telugu Mokhtasar",
+          "repo": "Tafseer-Telugu",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Telugu@main/telugu-mokhtasar/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Telugu/main/telugu-mokhtasar/{juz}.json"
+        }
+      ]
+    },
+    "th": {
+      "name_en": "Thai",
+      "name_native": "ไทย",
+      "direction": "ltr",
+      "repos": [
+        "Tafseer-Thai"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 541,
+          "slug": "thai-mokhtasar",
+          "name": "Thai Mokhtasar",
+          "repo": "Tafseer-Thai",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Thai@main/thai-mokhtasar/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Thai/main/thai-mokhtasar/{juz}.json"
+        }
+      ]
+    },
+    "ug": {
+      "name_en": "Uyghur",
+      "name_native": "ئۇيغۇر",
+      "direction": "rtl",
+      "repos": [
+        "Tafseer-Uyghur"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 539,
+          "slug": "uyghur-mokhtasar",
+          "name": "Uyghur Mokhtasar",
+          "repo": "Tafseer-Uyghur",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Uyghur@main/uyghur-mokhtasar/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Uyghur/main/uyghur-mokhtasar/{juz}.json"
+        }
+      ]
+    },
+    "uz": {
+      "name_en": "Uzbek",
+      "name_native": "Oʻzbek",
+      "direction": "ltr",
+      "repos": [
+        "Tafseer-Uzbek"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 538,
+          "slug": "uzbek-mokhtasar",
+          "name": "Uzbek Mokhtasar",
+          "repo": "Tafseer-Uzbek",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Uzbek@main/uzbek-mokhtasar/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Uzbek/main/uzbek-mokhtasar/{juz}.json"
+        }
+      ]
+    },
+    "vi": {
+      "name_en": "Vietnamese",
+      "name_native": "Tiếng Việt",
+      "direction": "ltr",
+      "repos": [
+        "Tafseer-Vietnamese"
+      ],
+      "tafsirs": [
+        {
+          "qul_id": 261,
+          "slug": "vietnamese-al-mukhtasar-in-interpreting-the-noble-quran",
+          "name": "Vietnamese Al-Mukhtasar in interpreting the Noble Quran",
+          "repo": "Tafseer-Vietnamese",
+          "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Vietnamese@main/vietnamese-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json",
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Vietnamese/main/vietnamese-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json"
+        }
+      ]
+    }
+  }
+}
