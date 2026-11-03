@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-05-16",
+  "updated": "2026-11-03",
   "source": "qul.tarteel.ai",
   "languages": {
     "ar": {
@@ -18,7 +18,8 @@
           "name": "Tafsir Ibn Kathir",
           "repo": "Tahfeez-Quran-Tafseer",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tahfeez-Quran-Tafseer@main/ibn-kathir/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tahfeez-Quran-Tafseer/main/ibn-kathir/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tahfeez-Quran-Tafseer/main/ibn-kathir/{juz}.json",
+          "juz_fp": ["14137039", "86642e6a", "63a779f8", "a02577ec", "9db0e4bb", "cf2cec9e", "869ad5cd", "51c256a7", "def2c19e", "bf614557", "60ed362c", "2e09a167", "b1cc20c9", "4337f8ae", "643c3ce3", "4ab90960", "9d090ef9", "0c4e4d70", "18f2def8", "20f28b1f", "5abcc01c", "6d88b8c8", "bfbcb59d", "3f00a664", "6646b104", "c014c393", "080c73be", "9e88cb7f", "f19c25ee", "73b95acd"]
         },
         {
           "qul_id": 23,
@@ -26,7 +27,8 @@
           "name": "Tafseer Al Qurtubi",
           "repo": "Tahfeez-Quran-Tafseer",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tahfeez-Quran-Tafseer@main/qurtubi/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tahfeez-Quran-Tafseer/main/qurtubi/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tahfeez-Quran-Tafseer/main/qurtubi/{juz}.json",
+          "juz_fp": ["a03bfbb6", "2e201126", "11964e70", "a5a7089b", "e6beb25e", "afad6d69", "34b8e581", "2aea83f6", "5163fa19", "a2eeca92", "ca4465e8", "72e3200f", "2479b4b5", "9ea1c556", "a13797ea", "de0a05a4", "0ae856db", "c8da7b33", "5fd05e41", "541fbf29", "f9574d8b", "2b9ac3d7", "f0b3487e", "f3bbdab1", "2ac1e823", "43640a4d", "7f013fd3", "18ba6d38", "389e3473", "f4cfe186"]
         },
         {
           "qul_id": 24,
@@ -34,7 +36,8 @@
           "name": "Tafseer Al Saadi - Arabic",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-saadi-arabic/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-saadi-arabic/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-saadi-arabic/{juz}.json",
+          "juz_fp": ["5759ba06", "f550be0d", "2a946f3f", "3b520d74", "bb36c5dd", "f043c6e9", "69fc00b3", "e8183ced", "41d214bf", "d5308caa", "8d8fbf9d", "a5c173b1", "fe115d62", "0c0142fb", "587279b3", "6750d3ee", "5f8441d1", "41b13461", "1720bb01", "b9dece8a", "dac1699e", "a0281d99", "c3a424be", "7f5a7411", "e41552c7", "8fb5ae92", "18d82e7a", "ffcc3999", "2e15da4c", "0c2e0664"]
         },
         {
           "qul_id": 25,
@@ -42,7 +45,8 @@
           "name": "Tafsir al-Tahrir wa al-Tanwir",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-tahrir-wa-al-tanwir/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-tahrir-wa-al-tanwir/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-tahrir-wa-al-tanwir/{juz}.json",
+          "juz_fp": ["db4c09a0", "971ebec2", "a6bca235", "3720c7e3", "3c5a0748", "acb93b08", "c4f2aff2", "992413c1", "0d7c2b8d", "240c3c54", "7d401546", "55238eef", "d226dd24", "d8404b4c", "d7cde5f7", "96ef30c6", "37cb0128", "22ff1170", "165abb35", "5a6e2a0d", "9c8c1303", "6b8f0a7a", "e3513ffd", "b0b1ee14", "ec2ccfa6", "3a44b9d3", "e47c4d47", "8ee13516", "937deb47", "e8dae490"]
         },
         {
           "qul_id": 26,
@@ -50,7 +54,8 @@
           "name": "Tafsir Al Wasit",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-wasit/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-wasit/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-wasit/{juz}.json",
+          "juz_fp": ["f241d0d0", "c16f331c", "6b597680", "a9950847", "dc7d6425", "5ec0a391", "34759e21", "7999890d", "e89d95c2", "b755a4fa", "13bf49c2", "da0498bc", "0627ab40", "ba5164f6", "410e678d", "6558a3ed", "914d44c5", "09789edc", "09a238ac", "5f65eae1", "2b150e2f", "b671aec3", "8b63c7ef", "31503ffc", "d8c04e73", "2c693d06", "10fa3502", "0c91e293", "1527ef34", "81c84647"]
         },
         {
           "qul_id": 27,
@@ -58,7 +63,8 @@
           "name": "Tafseer Al-Baghawi",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-baghawi/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-baghawi/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-baghawi/{juz}.json",
+          "juz_fp": ["8685e047", "a42495fe", "2e9fdf7c", "daaecd16", "5c5e889d", "9bfa375e", "5b8b6c5d", "eb459042", "96a90282", "850ddbfb", "8a84ef30", "2c4ce946", "cb62373d", "7a0919a5", "5a5f2cab", "c1d93b57", "086bbea7", "bfecf738", "d924cfa0", "71214702", "ed05fdcc", "e0818ccb", "23533b39", "ab50dc76", "9d7bd651", "4a2a75fd", "aa09aaa8", "5790fc2f", "ab29c857", "71eecce9"]
         },
         {
           "qul_id": 37,
@@ -66,7 +72,8 @@
           "name": "Tafsir al-Tabari",
           "repo": "Tahfeez-Quran-Tafseer",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tahfeez-Quran-Tafseer@main/tabari/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tahfeez-Quran-Tafseer/main/tabari/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tahfeez-Quran-Tafseer/main/tabari/{juz}.json",
+          "juz_fp": ["25fa18a1", "5e14ffb1", "6d40a30e", "806c5d32", "2613babc", "4afd3693", "a4a713ba", "008454f8", "56315c3a", "77bffa36", "aa55f109", "d6d0848e", "47aba7c4", "657a686f", "d59ab6d3", "c02b7fd7", "7aacaa80", "0990ce48", "69830433", "cb883719", "90a45ef0", "cd4438be", "290b7d42", "132422f3", "c0769b3f", "3d24f354", "aaf27cc7", "4b33c5ac", "df7c39a4", "8b5bc7da"]
         },
         {
           "qul_id": 38,
@@ -74,7 +81,8 @@
           "name": "Tafsir Muyassar",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/muyassar/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/muyassar/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/muyassar/{juz}.json",
+          "juz_fp": ["d32cf6e5", "bb0c5537", "78858537", "716821f7", "0980e29a", "e62bb5b8", "e5d277e7", "41c6f481", "64a2cc14", "b3c3ead1", "f07d1023", "4e286514", "beab4882", "dace0c06", "fbc5ef64", "ab65ffd6", "9b657cb7", "e5c16c95", "89cf577f", "b2310035", "8ff50bd3", "2fb3188e", "aad223b3", "d0df8dff", "33f6c31a", "57d553bf", "6d953373", "38ea9641", "3442c862", "c223e990"]
         },
         {
           "qul_id": 250,
@@ -82,7 +90,8 @@
           "name": "Asseraj fi Bayan Gharib AlQuran",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/asseraj-fi-bayan-gharib-alquran/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/asseraj-fi-bayan-gharib-alquran/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/asseraj-fi-bayan-gharib-alquran/{juz}.json",
+          "juz_fp": ["96086aa0", "b270fa90", "3aa8dd2e", "790c89ff", "b01a2290", "4479bf5d", "d6013de6", "3c302bf3", "2a7bc401", "c0d0f704", "cbf4405e", "9612607f", "bcd4b2b1", "bf3d6995", "647df52b", "060fdeac", "35c842f3", "898694fb", "42eb4a04", "72a27d49", "4dc418be", "628583dc", "3c8bb558", "e60515b1", "fe8ed2c3", "b72e64f6", "44439fe1", "da92890f", "b99e4a69", "83b44738"]
         },
         {
           "qul_id": 251,
@@ -90,7 +99,8 @@
           "name": "Arabic Al-Mukhtasar in interpreting the Noble Quran",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/arabic-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/arabic-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/arabic-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json",
+          "juz_fp": ["bac3d22f", "d0e8cb75", "b2ad97ca", "0b187324", "d8f7b766", "9751c335", "7029ba39", "b26f4f19", "c8b3a491", "b9333ff5", "4d59f602", "e54edc14", "8a382542", "54f23f5a", "a5e0ddee", "efc8ed91", "922b287c", "67db6fde", "169a8dc2", "9784c398", "e333eb1c", "f62008df", "77139b3b", "805c95ee", "57905841", "0ce88a49", "a3f02a49", "fb95d223", "ff87fb72", "acb1619e"]
         },
         {
           "qul_id": 308,
@@ -98,7 +108,8 @@
           "name": "Tafsir As-Saadi",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/as-saadi/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/as-saadi/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/as-saadi/{juz}.json",
+          "juz_fp": ["96086aa0", "b270fa90", "3aa8dd2e", "790c89ff", "b01a2290", "4479bf5d", "d6013de6", "3c302bf3", "2a7bc401", "c0d0f704", "cbf4405e", "9612607f", "bcd4b2b1", "bf3d6995", "647df52b", "060fdeac", "35c842f3", "898694fb", "42eb4a04", "72a27d49", "4dc418be", "628583dc", "3c8bb558", "e60515b1", "fe8ed2c3", "b72e64f6", "44439fe1", "da92890f", "b99e4a69", "83b44738"]
         },
         {
           "qul_id": 486,
@@ -106,7 +117,8 @@
           "name": "Tafsir Ibn Uthaymeen",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/ibn-uthaymeen/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/ibn-uthaymeen/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/ibn-uthaymeen/{juz}.json",
+          "juz_fp": ["5d065f19", "613da647", "9f68209a", "5a1666c1", "9e514eb7", "6c8b8ab9", "d8ce61ac", "3c86a3bd", "8408c065", "823463d3", "e7928f98", "061ccb46", "aa38e775", "cda26b49", "6718811b", "eba22c9b", "b047b33a", "4f3bec29", "bff77555", "efe90695", "6506d315", "d0d135fb", "594cd6d0", "27dab1f2", "afe76cd1", "9ff635b5", "42fdd522", "88a1d6b5", "03f52653", "d5d8ef24"]
         },
         {
           "qul_id": 487,
@@ -114,7 +126,8 @@
           "name": "Tahlil Kalimat al-Qur'an",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/tahlil-kalimat-al-quran/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/tahlil-kalimat-al-quran/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/tahlil-kalimat-al-quran/{juz}.json",
+          "juz_fp": ["f43879c1", "64dee2e9", "98586fe1", "66d8d96f", "2e7cf636", "0d9b9b9d", "5e7479bb", "505e2651", "b0b490f0", "68808986", "0259091d", "c61235d4", "feea8ae7", "ad6bbde1", "ebc6815b", "a8913b90", "34f85747", "b948dac6", "4d804292", "80749b23", "c674cf7f", "78ad66ee", "780cb725", "3ebd447b", "20486726", "0ddcb890", "096902d2", "e33d377d", "0e82c8c2", "2e350057"]
         },
         {
           "qul_id": 488,
@@ -122,7 +135,8 @@
           "name": "Tafsir Al-Razi",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-razi/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-razi/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-razi/{juz}.json",
+          "juz_fp": ["86be9f4b", "5429484e", "386d9f63", "2082ff40", "2ebab3c7", "a54377f2", "93113b31", "0d12cd75", "02af4906", "59491429", "c0f6e832", "8564e647", "007a311f", "fbfd804f", "41d71e0f", "5a84e40b", "c183b055", "2d115178", "1aad46e4", "b7201e17", "5d3334bb", "71a5f050", "d24fae61", "95f88538", "a7d71ba1", "56bcbb32", "c110260b", "74acd1e8", "208417e2", "33615919"]
         },
         {
           "qul_id": 489,
@@ -130,7 +144,8 @@
           "name": "Al-Wajiz Wahidi",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-wajiz-wahidi/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-wajiz-wahidi/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-wajiz-wahidi/{juz}.json",
+          "juz_fp": ["6fc0d13d", "f02443f6", "4efb9ee7", "146f0d6c", "63306b9f", "c3c1918a", "44823c0b", "cd929151", "12d062e7", "50aecff2", "43759578", "e193546a", "aa38e775", "cda26b49", "7cebd3e8", "4ce116dd", "b047b33a", "d7d99481", "f21f8e8c", "4591d8c7", "f0837d59", "c3c2e866", "70118fa2", "3d1ab5bc", "ccf1a99d", "b07e0bd8", "dfff18ad", "88a1d6b5", "03f52653", "898a17d3"]
         },
         {
           "qul_id": 490,
@@ -138,7 +153,8 @@
           "name": "Tafsir Makhi",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/makhi/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/makhi/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/makhi/{juz}.json",
+          "juz_fp": ["27d079dc", "ba65e47e", "509386d1", "b738406a", "4d189258", "65f4e26a", "9564f544", "5dae4d18", "2575871e", "8d95aed9", "9b3c4fac", "e6992f06", "7010a348", "0791846f", "b1f416e8", "8f237291", "148288f4", "903e542d", "5ab985c3", "d1ca487c", "34ba4d3d", "5bc93dc7", "6f64d225", "8029aadf", "7ed6923d", "f57dd8c3", "8434d00c", "bec6f29b", "b3487d16", "654ef036"]
         },
         {
           "qul_id": 491,
@@ -146,7 +162,8 @@
           "name": "Tafsir Ibn Juzay",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/ibn-juzay/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/ibn-juzay/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/ibn-juzay/{juz}.json",
+          "juz_fp": ["3d4e6fc9", "abf678df", "6ebaf2fd", "3c22b463", "59df7532", "95c6a9d2", "efe73a9d", "194b2695", "6e41f1cd", "deb49409", "546b1498", "f9a03bad", "b6fbd179", "ae52a727", "fd9dc03f", "17612219", "e1a366c1", "3070bd2d", "a2ea9ef2", "dae30b9c", "e7bea6d7", "e7cf2c53", "b506f665", "733139cc", "5cb5e145", "f9708b58", "2cd5bf0c", "cbc3eb99", "a36b8ddc", "ff246767"]
         },
         {
           "qul_id": 492,
@@ -154,7 +171,8 @@
           "name": "Mawsoo'at Al-Tafsir Al-Ma'thoor",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/mawsooat-al-tafsir-al-mathoor/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/mawsooat-al-tafsir-al-mathoor/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/mawsooat-al-tafsir-al-mathoor/{juz}.json",
+          "juz_fp": ["fc5e5cfe", "34c812c1", "d4277be3", "7b968ad2", "3c536636", "93262cb3", "ad21d2d9", "1ae0ae0b", "5ab6d7da", "00338335", "ba7e80dc", "fa2b1a72", "62992b2d", "cb0349cf", "48733637", "332d6205", "be1c1530", "8654d045", "152ad729", "8428ac7d", "5ca76361", "0f0980a5", "2b876e78", "cd6f4f87", "c0cd0324", "236d4e7c", "d65ec318", "ef4152af", "31c8ca74", "2a8a9131"]
         },
         {
           "qul_id": 493,
@@ -162,7 +180,8 @@
           "name": "Al-Durr Al-Manthur",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-durr-al-manthur/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-durr-al-manthur/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-durr-al-manthur/{juz}.json",
+          "juz_fp": ["3c01961d", "73c4e09c", "5ffb8c01", "f625a7be", "2f896b69", "8d7a78dd", "610e50e6", "58f13ea3", "b63257e1", "1aacc0ff", "5450c68b", "0f2936d0", "7903e16a", "42275fae", "8705c596", "9528ef04", "6de20d04", "a2407bf7", "1fb505fd", "ae348b63", "be93d26d", "6e720346", "37739894", "54925c64", "63f31c45", "d921a59f", "563d0034", "48fcc273", "f4cf6819", "d82a25fa"]
         },
         {
           "qul_id": 494,
@@ -170,7 +189,8 @@
           "name": "Fath Al-Qadir Al-Shawkani",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/fath-al-qadir-al-shawkani/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/fath-al-qadir-al-shawkani/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/fath-al-qadir-al-shawkani/{juz}.json",
+          "juz_fp": ["93b66d14", "8a46a835", "63c5fc1b", "0100ec6c", "25a41a3d", "70ae3a41", "90c4793c", "528ab828", "68d72136", "37ce920d", "6f21386f", "91621936", "78b464a7", "b9eb0276", "e007e48b", "07e092af", "c55a7ec7", "65982717", "6dfc9bc8", "a64e4b9d", "634c67af", "b2e3210c", "1f01ec84", "ae9b4201", "b6f478b7", "d0d2446b", "eaec4f69", "0dcee8ba", "dd5fbec8", "e202ef71"]
         },
         {
           "qul_id": 495,
@@ -178,7 +198,8 @@
           "name": "Fath Al-Bayan li Al-Qanuji",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/fath-al-bayan-li-al-qanuji/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/fath-al-bayan-li-al-qanuji/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/fath-al-bayan-li-al-qanuji/{juz}.json",
+          "juz_fp": ["2061f4f1", "57d61717", "4b888d03", "e9f15702", "9e9431b2", "5b3fbdbb", "e622e6fa", "1912304f", "a0e3ecd6", "350e4692", "7e4db161", "c2ade699", "59a4a05b", "2bd7716b", "c6de1a90", "b6fb6876", "f4d42e39", "c251c085", "f1d2f184", "4e74b327", "3b9f1633", "d5fabfae", "270bac26", "82785d68", "11875888", "66785e55", "02a6d0ba", "8c1bb268", "a7dc914d", "4099797f"]
         },
         {
           "qul_id": 496,
@@ -186,7 +207,8 @@
           "name": "Tafsir Ibn Al-Jawzi",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/ibn-al-jawzi/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/ibn-al-jawzi/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/ibn-al-jawzi/{juz}.json",
+          "juz_fp": ["4e4c6a2d", "d33655e8", "8e69123b", "ee581d48", "8d97a8f0", "0d0c32af", "9b8da342", "2dc210b8", "94ae1f4a", "2236ccf8", "8e0738b8", "97dd2f21", "1cdde4a6", "17d5a73f", "70b3b8b4", "fc01c552", "27ff2054", "e8ad5a5f", "4e864cc3", "b4b96b18", "5bd1958a", "d81a3281", "fa89a9a1", "8881bf9d", "f3e405dc", "29584a6d", "a42504cf", "20bd36cf", "ffccc2d1", "3e9325aa"]
         },
         {
           "qul_id": 497,
@@ -194,7 +216,8 @@
           "name": "Tafsir Abi Al-Suaood",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/abi-al-suaood/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/abi-al-suaood/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/abi-al-suaood/{juz}.json",
+          "juz_fp": ["1558bc41", "ab69b8ee", "1381edb2", "eb2a90d1", "a8235825", "533689d7", "17a82158", "60a453a9", "228c18ea", "91b3760d", "1c8e58b4", "1e1fade6", "a719dcee", "6694d63b", "b6674ffc", "d5ea7c4d", "80a15bcc", "2e373697", "86afdd59", "c485caad", "9640b6c7", "ee4e1182", "f87098e8", "df077675", "dd61bd8c", "c7374d0b", "8adde80c", "850bbb48", "494e6681", "3fe60038"]
         },
         {
           "qul_id": 498,
@@ -202,7 +225,8 @@
           "name": "Nazam Al-Durar Al-Biqa'i",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/nazam-al-durar-al-biqai/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/nazam-al-durar-al-biqai/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/nazam-al-durar-al-biqai/{juz}.json",
+          "juz_fp": ["9e42fbce", "d76d2018", "3f95deb2", "b102bf78", "f79d7019", "196d0fc2", "e113863e", "2707f7ae", "8bfdff85", "b1b640da", "e4d0c194", "d9a0187f", "7872f914", "040646e2", "c53c48ec", "9431daf6", "a42fb4f4", "64161cf5", "0e40baaf", "2c09125c", "54c9463b", "97cc0f15", "014b192b", "802dc0bf", "14281529", "552ac598", "81918b64", "163e467e", "52a5319b", "1603cfa1"]
         },
         {
           "qul_id": 499,
@@ -210,7 +234,8 @@
           "name": "Tafsir Ibn Abi Zamanin",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/ibn-abi-zamanin/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/ibn-abi-zamanin/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/ibn-abi-zamanin/{juz}.json",
+          "juz_fp": ["cc73b9a2", "4549b92b", "016fabd9", "8b664b29", "bf7fd986", "6db535a1", "58d29167", "5b430ace", "5cd6701b", "75a6bb14", "1af016fb", "371cb1f3", "38273ff6", "38788768", "1b3be864", "2b077a1d", "fdd1f876", "ba3fd701", "82f90652", "71f67c67", "0e40cfc6", "59bd1ee9", "a7bdb5b0", "55502379", "a517d0ec", "dec05975", "47d9a67b", "66d73e1e", "46ba9c28", "1a181a8b"]
         },
         {
           "qul_id": 500,
@@ -218,7 +243,8 @@
           "name": "Tafsir Ibn Al-Qayyim",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/ibn-al-qayyim/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/ibn-al-qayyim/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/ibn-al-qayyim/{juz}.json",
+          "juz_fp": ["e06ea846", "bba36044", "f9272493", "52761ea7", "fd81d35b", "dc0bda6e", "2c0fb99e", "55d5b5f5", "f15ec2ff", "eecf52c9", "3c8ca014", "02cc272d", "f38d6c72", "9b13493f", "4da8c91d", "c943d523", "ac07d08f", "62392f71", "d5324ab8", "d770d33c", "70f4ecf6", "0bc6cb43", "d3bf3fc8", "a5e55df0", "2a4125e0", "6bc67a39", "69d29e44", "58ed592a", "798bb4b3", "ab5fdbba"]
         },
         {
           "qul_id": 501,
@@ -226,7 +252,8 @@
           "name": "Tafsir Al-Alusi",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-alusi/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-alusi/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-alusi/{juz}.json",
+          "juz_fp": ["b8975d21", "626f998f", "fb450faf", "cea0a59c", "bc522e51", "e35cbad3", "c8d1aeb8", "b46141de", "485e463d", "fb0ddd4f", "5fd1beac", "a162a30d", "ee5eb9eb", "10a53081", "2b586d92", "0ba84de5", "6a003440", "1475b124", "f3210364", "789b0db5", "e019f0d4", "c28ce926", "2d5aa177", "d55b63bd", "bd8c0013", "4f40a197", "110a328a", "4bf9bdf3", "beede80f", "afc5ce91"]
         },
         {
           "qul_id": 502,
@@ -234,7 +261,8 @@
           "name": "Tafsir Ibn Abi Hatim",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/ibn-abi-hatim/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/ibn-abi-hatim/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/ibn-abi-hatim/{juz}.json",
+          "juz_fp": ["fe064e4c", "b5777db2", "a4ff696f", "fcf02e02", "0a0da7a2", "8c0b4a13", "dea26f48", "745459d1", "e9114b30", "a12e81ae", "a4181870", "4e581cd9", "5291ed66", "e09b4c7a", "a8e6a789", "b850c857", "afdce3d2", "4fe1d045", "662ec83f", "a7f60b7e", "55164848", "921ef831", "db0498a9", "07c27170", "d094546f", "d5188340", "70285ae9", "9c10af48", "b44f1649", "303d71e8"]
         },
         {
           "qul_id": 504,
@@ -242,7 +270,8 @@
           "name": "Iraab Al-Muyassar",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/iraab-al-muyassar/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/iraab-al-muyassar/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/iraab-al-muyassar/{juz}.json",
+          "juz_fp": ["64aa9d88", "03b271c0", "e09f910d", "0e2b979e", "b547e538", "bf281aa2", "ffb577e2", "cabff3ae", "8bd99b01", "84a887dc", "30e5451c", "8712e028", "79e0c0fa", "5f7ea8db", "e413034d", "e14bfb18", "352265f7", "1dc0a004", "03f15a7b", "039571a3", "33e22b8d", "058458dd", "563c4257", "e511f7d4", "13226168", "40c41044", "cfd3c22f", "1e871a19", "9db16963", "bf5a0ca3"]
         },
         {
           "qul_id": 505,
@@ -250,7 +279,8 @@
           "name": "Al Dur Al Masun Lil Samin Al Halabi",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-dur-al-masun-lil-samin-al-halabi/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-dur-al-masun-lil-samin-al-halabi/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-dur-al-masun-lil-samin-al-halabi/{juz}.json",
+          "juz_fp": ["54aae9d2", "4131a979", "3b3afe97", "ff8bd999", "11775cf8", "6adc9736", "f95af32c", "4299e00d", "5c2da761", "4ed39d04", "ba6b7fbf", "17d95135", "9215fc7a", "54abae16", "ea849275", "18af0d84", "5953b70b", "c8938371", "e348ae91", "e2dbffd6", "729731a5", "98e7fab1", "e2f5224f", "1492535b", "b52ee3af", "b9012b6e", "23e8c827", "00332c67", "b944742d", "1e227a35"]
         },
         {
           "qul_id": 506,
@@ -258,7 +288,8 @@
           "name": "I'rab Al Quran li Al Darwish",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/irab-al-quran-li-al-darwish/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/irab-al-quran-li-al-darwish/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/irab-al-quran-li-al-darwish/{juz}.json",
+          "juz_fp": ["f15f6394", "7e85d0d7", "995f79aa", "d1f697e9", "a30e3ac0", "1aa0f2c1", "c2c06ded", "5604f46a", "b3fda273", "c8d096ed", "cad93cbc", "a256133b", "d3b56a83", "b848ce53", "d25ebd44", "de4c92f9", "5e6565af", "e86c01fd", "4ea4be02", "67072a55", "0cd94cef", "70f1850b", "8b6b946a", "de7534a1", "61d4772a", "f4eb30a1", "176b3938", "2b63d11e", "0722800a", "730e5433"]
         },
         {
           "qul_id": 507,
@@ -266,7 +297,8 @@
           "name": "Abu Bakr Jabir Al-Jazairi",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/abu-bakr-jabir-al-jazairi/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/abu-bakr-jabir-al-jazairi/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/abu-bakr-jabir-al-jazairi/{juz}.json",
+          "juz_fp": ["1e958f92", "e28e06c2", "23ce7a3a", "512d7a84", "8b1bc7e3", "4ed3308e", "cc958ea5", "27b762a1", "7b49d7bb", "3a86fa49", "742264d1", "57a402d3", "1ff47297", "2b12c30f", "1bd92074", "f1d5921a", "945bb8bc", "f0812c17", "dca1595e", "b0403553", "e23e4873", "8576c548", "6d125305", "876d733d", "83098b25", "8ec34b6a", "9a92ba03", "4b2a3315", "931b4161", "c643a30c"]
         },
         {
           "qul_id": 508,
@@ -274,7 +306,8 @@
           "name": "Jamia Al-Bayan AlIji",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/jamia-al-bayan-aliji/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/jamia-al-bayan-aliji/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/jamia-al-bayan-aliji/{juz}.json",
+          "juz_fp": ["f5fb9ef3", "0a628cb6", "51ce422a", "3968d00d", "fcde49c8", "5e2ae53c", "18119032", "3e173d87", "0d2cd3fc", "6d3fc784", "f4ca2fd1", "a6148cbe", "1a720d36", "3ce80805", "d246a3d1", "39fa077a", "58c587b3", "e961c157", "8b42c24e", "e64aff3b", "be1e7491", "31807d15", "265453fb", "13d96f2c", "76375948", "bb7625a0", "6bab41f3", "f7bd0a72", "51e7e307", "0427d317"]
         },
         {
           "qul_id": 509,
@@ -282,7 +315,8 @@
           "name": "Al-Muharrar Al-Wajiz Ibn Atiyyah",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-muharrar-al-wajiz-ibn-atiyyah/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-muharrar-al-wajiz-ibn-atiyyah/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-muharrar-al-wajiz-ibn-atiyyah/{juz}.json",
+          "juz_fp": ["2deef3e6", "58739148", "77396e67", "e31f517c", "48a7b6b8", "dc19ed51", "7229b7bc", "37f1ddbf", "47a5dc36", "642da9ef", "f2683ba0", "7d4aeb2c", "dd3ca4fb", "bc8ea129", "b71a0f81", "f05f985e", "d42a1b7f", "051d7a9f", "996cc74d", "fe37a7eb", "d5c580b7", "b138007a", "d30f77e0", "4e19654d", "8e546df6", "c708e2cb", "79110a81", "0772036d", "0eda60d1", "1fefe84e"]
         },
         {
           "qul_id": 510,
@@ -290,7 +324,8 @@
           "name": "Al-Kashshaf Al-Zamakhshari",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-kashshaf-al-zamakhshari/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-kashshaf-al-zamakhshari/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-kashshaf-al-zamakhshari/{juz}.json",
+          "juz_fp": ["3a9d03b4", "c982e2c3", "3ce95528", "2db9032a", "a701b74d", "33ed8cdc", "892cfbb3", "efe58333", "d97ed507", "1f0a8b68", "5ca2caf6", "66f2f2a5", "3b841aff", "0793d4ae", "3f597fc3", "95014c79", "51e95504", "405c6c0e", "90286e6e", "743aed4f", "fd813780", "d5d5d6e9", "6194209f", "d96c950b", "26e6cb54", "4f6bc4b1", "b749d6be", "92a16e83", "b1f6bd9d", "16a4da8b"]
         },
         {
           "qul_id": 511,
@@ -298,7 +333,8 @@
           "name": "Al-Basit",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-basit/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-basit/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-basit/{juz}.json",
+          "juz_fp": ["b4dc00df", "7fa6eea3", "1834222e", "c5c7bb8b", "c6f5757d", "9d2ed2eb", "d19a67a5", "c4218bcd", "037ed9ab", "b78a9f12", "9ccaf9c0", "62d6ae2d", "46ded9cd", "a464d3fe", "db4f1a7e", "86421f48", "8838bb4a", "569880dd", "ca753d64", "b50caed9", "e8f30aee", "aa84de6c", "5ab7ef6d", "07c27170", "138e35d7", "5f4a3498", "e0b536ec", "10ba054f", "0d1c072b", "7f1d66d8"]
         },
         {
           "qul_id": 512,
@@ -306,7 +342,8 @@
           "name": "Tafsir Al-Mawardi",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-mawardi/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-mawardi/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-mawardi/{juz}.json",
+          "juz_fp": ["065c63bb", "cf692b2c", "e7ec062a", "9b576437", "ac697a83", "c0320966", "35eea9e7", "02c3ca7d", "1558c09d", "f8fffaa7", "80093dd8", "74ea82e0", "741a0f92", "6ad1a646", "dc56f404", "95cd29c6", "999b2592", "1fa8e086", "42d67b96", "3c65b09e", "f29215d2", "8d5face1", "ebb3f46f", "75d7edff", "2ebeade0", "8b293d80", "22b30ab0", "3f7c5d05", "c15c633e", "13142da5"]
         },
         {
           "qul_id": 513,
@@ -314,7 +351,8 @@
           "name": "Tafsir Al-Samarqandi",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-samarqandi/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-samarqandi/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-samarqandi/{juz}.json",
+          "juz_fp": ["d75d6ec1", "9912a0f4", "6ad5fc65", "1a8cef33", "3be7a88b", "6e24ea9f", "48e18ddd", "70690686", "bef1761c", "364a398e", "915c9132", "91277d60", "db47a7f3", "8f250260", "2c16a741", "c1e77937", "29f50b79", "733c2a79", "906362aa", "8cde381e", "778bbdbb", "2df53e26", "dc495da5", "968216a2", "d28ff578", "0de5cc02", "a3bdfd48", "162aa1b1", "00f7e248", "f269de08"]
         },
         {
           "qul_id": 514,
@@ -322,7 +360,8 @@
           "name": "Tafsir Al-Nasafi",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-nasafi/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-nasafi/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-nasafi/{juz}.json",
+          "juz_fp": ["73826a8c", "cb5bb328", "ad712b95", "a76d4a9e", "948c7312", "bc681e61", "dc2b826a", "5a94c27f", "de199cee", "3da051fe", "8544cc1b", "552f65d1", "7cf07d1c", "d8831b91", "dbc466b4", "ff7da97a", "66c16896", "25e60cb9", "5a337c77", "f5ae0427", "c15af8c1", "2154a467", "cdadef27", "d1504967", "bffb051b", "471709a9", "7f3ff638", "245f90a5", "386aa7b9", "debf1208"]
         },
         {
           "qul_id": 515,
@@ -330,7 +369,8 @@
           "name": "Alrab Al-Quran li-Da'as",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/alrab-al-quran-li-daas/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/alrab-al-quran-li-daas/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/alrab-al-quran-li-daas/{juz}.json",
+          "juz_fp": ["9dc3e638", "302e413a", "47652aca", "bba5a5aa", "440cc1ba", "48277164", "1cb54701", "448e38b6", "9e0e54dd", "6004c16a", "19219e81", "267e103a", "5a84a209", "5131d870", "c59b75b9", "44044328", "abb24baf", "10390b70", "f0520bd9", "27a4da01", "47fb18fc", "d945864a", "c9dfd7e9", "097df1d1", "b75433fc", "d6802e61", "a7ee03cb", "f0bc28ea", "03e4c01b", "3323ce25"]
         },
         {
           "qul_id": 516,
@@ -338,7 +378,8 @@
           "name": "Al Lubab fi Ulum Al Kitab",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-lubab-fi-ulum-al-kitab/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-lubab-fi-ulum-al-kitab/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-lubab-fi-ulum-al-kitab/{juz}.json",
+          "juz_fp": ["59ec9f33", "f536f56d", "27341b92", "66a57780", "1ce79d97", "8471b56a", "1433551a", "6742270e", "99045c97", "2f518f5b", "45ed73ea", "7ae36d7d", "6e8c247b", "e078060d", "0e00dafe", "86512ded", "76355c04", "29f54c88", "09fd8f8a", "1e4e1c80", "3ab1c407", "049e3ce5", "30e830ce", "0dffb395", "71b3ae11", "72dc2dc4", "72930807", "549a0f8f", "37daee69", "e539e00a"]
         },
         {
           "qul_id": 517,
@@ -346,7 +387,8 @@
           "name": "Tadabbur wa 'Amal",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/tadabbur-wa-amal/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/tadabbur-wa-amal/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/tadabbur-wa-amal/{juz}.json",
+          "juz_fp": ["21e31a10", "fb65190c", "d07e54cc", "c2491670", "8b0c5fd1", "fcf56f37", "820c285a", "72fb8475", "1f4cb9a7", "511b1c16", "53255b6e", "afd2e8e8", "7b73255d", "ee4e36eb", "86eab33d", "77e12435", "9f4dfdb9", "b161fc12", "8a89116e", "f665cbff", "208f9644", "63ceeaee", "00c63d8e", "b656fe34", "4dc57aae", "d1608d23", "62919a98", "d649845f", "0c895789", "8373edb0"]
         },
         {
           "qul_id": 518,
@@ -354,7 +396,8 @@
           "name": "Tafsir Al-Baydawi",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-baydawi/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-baydawi/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-baydawi/{juz}.json",
+          "juz_fp": ["c6ddd54e", "3b295b2b", "8343a42d", "39b9c32b", "650f6427", "6b8d88a3", "14b769c2", "7cdb5797", "a8d15f13", "77181804", "8e250aa1", "588966b6", "fe4c90d3", "188bff1e", "1dd99e6f", "ceb2ac9a", "779f7cc1", "89582281", "15b5c4aa", "1e0d3d35", "b3ee41d9", "7a00eacf", "e7edff71", "3d1ab5bc", "ccf1a99d", "b07e0bd8", "dfff18ad", "88a1d6b5", "03f52653", "898a17d3"]
         },
         {
           "qul_id": 519,
@@ -362,7 +405,8 @@
           "name": "Al-Muyassar fi Al-Gharib",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-muyassar-fi-al-gharib/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-muyassar-fi-al-gharib/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-muyassar-fi-al-gharib/{juz}.json",
+          "juz_fp": ["8fae3b5f", "d1635840", "e34a6392", "6f430c30", "d158e21e", "6594026c", "700d8738", "5fdd6159", "014dfed5", "829a6327", "aaf49c3c", "e2885ea6", "458ad5e7", "4aa89efb", "544b6810", "d132df48", "bb4b0b17", "25eec22a", "bde27ea9", "078ef2af", "da489e33", "4cd2716b", "0c18541c", "c88185ac", "c08d8486", "7a2ec7bf", "8630341b", "6d0cc22a", "a1002cc1", "a8d6cd24"]
         },
         {
           "qul_id": 520,
@@ -370,7 +414,8 @@
           "name": "Al Jadwal fi I'rab Al Quran",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-jadwal-fi-irab-al-quran/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-jadwal-fi-irab-al-quran/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-jadwal-fi-irab-al-quran/{juz}.json",
+          "juz_fp": ["b073cb3d", "b40eccd3", "1c235c0b", "a18b30bf", "76d331d3", "aa4a83f5", "ab05fe27", "549b0d76", "b8b15073", "003f4167", "8af4f691", "abb82dad", "7813c56b", "fcbb7722", "6b1e1bd4", "b18a4c5d", "3ba69b6a", "9d4af5bd", "8643322a", "05ec5f11", "4f40336b", "ac44a0c3", "8e40b194", "6121f828", "596c2c02", "d5237764", "0c00cae2", "911bbb10", "ce4df434", "600029b7"]
         },
         {
           "qul_id": 521,
@@ -378,7 +423,8 @@
           "name": "Al Qira'at Al Mawsoo'ah Al Qur'aniyyah",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-qiraat-al-mawsooah-al-quraniyyah/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-qiraat-al-mawsooah-al-quraniyyah/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-qiraat-al-mawsooah-al-quraniyyah/{juz}.json",
+          "juz_fp": ["add36795", "bd4faf90", "f4b5fe37", "9f905a7a", "108276a9", "1b2aceeb", "fbaaf577", "d54a13c3", "7e6620a0", "6494a408", "8f37b258", "8dad05a1", "8af77bbf", "f9672245", "a13cf54c", "db541552", "cc4db155", "b94b7eb9", "431c338f", "d927e61a", "d8f5ac25", "cc322de7", "63b8b67a", "4433cf47", "99d649e0", "30215194", "885729fd", "58a2f91c", "36338b29", "8cf023c7"]
         },
         {
           "qul_id": 522,
@@ -386,7 +432,8 @@
           "name": "Al Nashr li Ibn Al Jazari",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-nashr-li-ibn-al-jazari/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-nashr-li-ibn-al-jazari/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-nashr-li-ibn-al-jazari/{juz}.json",
+          "juz_fp": ["b458cd08", "c77ed5a2", "ebad4c57", "f23974b0", "b663ed5f", "53721155", "400b7df4", "edfa208d", "bae3203e", "1a1029ca", "7e84bfe3", "e591acba", "9661a6df", "5bd8319a", "83436681", "7819d242", "1726d045", "9fbef7e7", "3b7fe252", "4165c99e", "e0808cf1", "f1f39b4c", "5e58bc2b", "5a259709", "08ada762", "a94e975c", "ce5eff9d", "76e521d8", "f44fe632", "3e6173d8"]
         },
         {
           "qul_id": 523,
@@ -394,7 +441,8 @@
           "name": "Tafsir Jalalayn",
           "repo": "Tahfeez-Quran-Tafseer",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tahfeez-Quran-Tafseer@main/jalalayn/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tahfeez-Quran-Tafseer/main/jalalayn/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tahfeez-Quran-Tafseer/main/jalalayn/{juz}.json",
+          "juz_fp": ["0450ac6e", "31fed0bf", "6d162887", "4cd0d1f7", "a9e17b09", "2f56ce8b", "89c2fe02", "cf1ef192", "db649887", "aa6df498", "b2a5d307", "43f7c655", "21da31b8", "c54c3d12", "6a12a368", "8e7879c8", "75bc1489", "683471a0", "8fcd891b", "af36b017", "d505f6f3", "8e267dde", "49e5b502", "d40238cb", "d1537924", "f8258287", "51205f5e", "fe4c9fe3", "fab6c13a", "548f2eb5"]
         },
         {
           "qul_id": 524,
@@ -402,7 +450,8 @@
           "name": "Mahasin Al-Ta'wil Al-Qasimi",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/mahasin-al-tawil-al-qasimi/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/mahasin-al-tawil-al-qasimi/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/mahasin-al-tawil-al-qasimi/{juz}.json",
+          "juz_fp": ["ba4343f7", "2c66e825", "8fffd68b", "dbffd0b7", "cd2874e6", "a590795c", "fd0668cd", "237ddbf4", "e6fbf196", "cdc15bcf", "a4fcf4af", "79dda61a", "0fd0a2a2", "cbbaf58d", "f2186cb5", "ddf960e7", "154f02a4", "0e46112a", "c997edff", "0ec05e2b", "a14e2d07", "e55d1d63", "16e7ebcf", "d487f4e0", "0ecb734f", "dfe571ec", "be249946", "428e6685", "5f355964", "fbe6e014"]
         },
         {
           "qul_id": 525,
@@ -410,7 +459,8 @@
           "name": "Adwa' Al-Bayan",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/adwa-al-bayan/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/adwa-al-bayan/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/adwa-al-bayan/{juz}.json",
+          "juz_fp": ["6f4fa127", "a2a4874c", "8817ad90", "bb1b6c8a", "a5f37973", "706cc4d3", "44bf62e9", "e9032701", "8d728bd5", "2b9bbd37", "8ef36468", "5442b6bd", "91d5eafd", "ead877bd", "f5979df5", "b351df9f", "03fff4ad", "d2f85a26", "85447e12", "031e3b0a", "dd4174ee", "62794dd5", "07491a5c", "07e0efdd", "83d5f74e", "9a3b41b5", "d8616205", "badabb8b", "9812ecfb", "092b03ea"]
         },
         {
           "qul_id": 526,
@@ -418,7 +468,8 @@
           "name": "Al-Bahr Al-Muhit",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-bahr-al-muhit/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-bahr-al-muhit/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-bahr-al-muhit/{juz}.json",
+          "juz_fp": ["d30d821f", "c6716038", "3effa4bc", "7c7d16ba", "43c490d1", "a00c29bc", "00eb6139", "59b3c6f9", "5c696407", "9c0d2534", "794f7aa1", "3fd876b3", "9bdc64ce", "c1839dc3", "90a90723", "6fd5607d", "09e7da13", "d64505c7", "732ad01c", "e3f6758a", "29c7d339", "c746b9f1", "c8ffb27b", "037d8421", "d08f6855", "cb96f598", "27b0c2c2", "e10e3cfb", "3ba79523", "bc585834"]
         },
         {
           "qul_id": 527,
@@ -426,7 +477,8 @@
           "name": "Tafsir Al-Tha'alibi",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-thaalibi/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-thaalibi/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-thaalibi/{juz}.json",
+          "juz_fp": ["1dc33bd9", "90602950", "a2c889dd", "2b10d362", "39ee6ff6", "d38328fd", "24cd6883", "1dddd8f9", "a11d6424", "890e440c", "a5ef27e9", "f20cacf4", "94c7407c", "0d3d816e", "1c206efa", "90c40e5e", "b7b510e8", "55497b84", "7d23178f", "95cefd49", "336c0b49", "dd196997", "6d33564a", "78e7de17", "e92d36c8", "99318164", "613ec614", "1cf6d800", "764709e8", "7e6fe5f5"]
         },
         {
           "qul_id": 528,
@@ -434,7 +486,8 @@
           "name": "Tafsir Al-Tha'alibi",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-thaalibi-v2/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-thaalibi-v2/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-thaalibi-v2/{juz}.json",
+          "juz_fp": ["60850b79", "8ec5c558", "4339d577", "7ce2f008", "36236aa7", "16ae0e36", "70b7ca05", "a33edfc5", "02c0bf45", "5d4e620c", "17380b6b", "72b1147b", "934c9c8d", "634b8e33", "dd33d677", "ae2be7a7", "464ee5d8", "eb0eee7b", "7dd5afb2", "aa44e9ca", "5fe43616", "e6b150a7", "1c9b7205", "e595ad0c", "2446e003", "ff1cba47", "9d3ac43c", "ac801d54", "b6336709", "1871ee2c"]
         },
         {
           "qul_id": 529,
@@ -442,7 +495,8 @@
           "name": "Tafsir Al-Sam'ani",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/al-samani/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-samani/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/al-samani/{juz}.json",
+          "juz_fp": ["4a93cfc6", "47208483", "101196b7", "f6d42f70", "8af94aa6", "9ebcd74d", "f41fb521", "fc596d77", "a1ca687b", "d91e4326", "50c45924", "d10535e5", "42741410", "b2d6aa67", "c20ba3f8", "70f210c9", "943e7701", "b74d8397", "2ddcbf8a", "1a4040f0", "ef914b13", "23d57e4c", "b4696658", "c30e012f", "b099900c", "414139c3", "d31b872f", "e1b017dd", "be3ce083", "15cba3ba"]
         },
         {
           "qul_id": 563,
@@ -450,7 +504,8 @@
           "name": "Ayah Dependency Graphs",
           "repo": "Tafseer-Arabic-Other",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Arabic-Other@main/ayah-dependency-graphs/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/ayah-dependency-graphs/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Arabic-Other/main/ayah-dependency-graphs/{juz}.json",
+          "juz_fp": ["cecaea6c", "02e54210", "9f523930", "1206e404", "f4c8f465", "65ec817a", "14eca071", "2bb363d5", "822eacdd", "5ab3a452", "e7928f98", "061ccb46", "aa38e775", "cda26b49", "7cebd3e8", "4ce116dd", "b047b33a", "d7d99481", "f21f8e8c", "4591d8c7", "f0837d59", "c3c2e866", "70118fa2", "3d1ab5bc", "ccf1a99d", "b07e0bd8", "dfff18ad", "12defd7b", "6fca9916", "bbc069a7"]
         }
       ]
     },
@@ -468,7 +523,8 @@
           "name": "Tafseer ibn Kathir",
           "repo": "Tafseer-Bengali",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Bengali@main/ibn-kathir/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Bengali/main/ibn-kathir/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Bengali/main/ibn-kathir/{juz}.json",
+          "juz_fp": ["0e08428e", "89fc998d", "69418047", "b330ba03", "e88b7aed", "fd6fdfc8", "751c9a30", "aa3af02d", "e1a5a2a2", "13f5d125", "718d461d", "ffe66edf", "2e57b747", "41204cf4", "37a6b5f3", "b35bbd31", "e240108b", "7cbd5d6d", "4191a9b6", "0ae37db9", "38ebcb4c", "fea0f61c", "eae01c1d", "bdfe2e13", "2f66706a", "94885e31", "cab46b6b", "55cc0cf3", "5df9a560", "a84575bd"]
         },
         {
           "qul_id": 32,
@@ -476,7 +532,8 @@
           "name": "Tafsir Ahsanul Bayaan",
           "repo": "Tafseer-Bengali",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Bengali@main/ahsanul-bayaan/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Bengali/main/ahsanul-bayaan/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Bengali/main/ahsanul-bayaan/{juz}.json",
+          "juz_fp": ["e174ef24", "9929995a", "b4fe04fb", "0fd9cf30", "955157b6", "aedf57c8", "17fc5752", "7c5ba137", "aa2fdf01", "351f7b27", "8f5ee8c5", "c5a23c3f", "59414f5c", "97130152", "54eb1256", "acb181d7", "2e81e59b", "71fb992a", "ed61ca84", "58cadb4d", "e16680ce", "94c3ecee", "ca2f4981", "5836d596", "eb33e13a", "743e0177", "423e1d05", "d618a395", "eb539fa8", "4ed1a025"]
         },
         {
           "qul_id": 33,
@@ -484,7 +541,8 @@
           "name": "Tafsir Abu Bakr Zakaria",
           "repo": "Tafseer-Bengali",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Bengali@main/abu-bakr-zakaria/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Bengali/main/abu-bakr-zakaria/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Bengali/main/abu-bakr-zakaria/{juz}.json",
+          "juz_fp": ["4d26b332", "6c06e5e9", "b9e21fbf", "4ef296e4", "ccd4a486", "54f92764", "b218a3c7", "36dc256e", "f4e47f67", "79204264", "ecf21cad", "3327e2fb", "51c967c7", "5bf79cf0", "8736ff15", "46047d02", "3c3fbffb", "f7cfef9f", "6e038923", "4064d0c8", "5e236f04", "c53a0635", "630c2d6a", "cac29274", "cbea4a72", "8f4a47f6", "ec40e406", "a910229f", "eb2d593e", "05a2de8b"]
         },
         {
           "qul_id": 39,
@@ -492,7 +550,8 @@
           "name": "Tafsir Fathul Majid",
           "repo": "Tafseer-Bengali",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Bengali@main/fathul-majid/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Bengali/main/fathul-majid/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Bengali/main/fathul-majid/{juz}.json",
+          "juz_fp": ["f79d8e98", "41d49bb3", "86c5cdb5", "2617648a", "7b62c70c", "54c34e1b", "23f4a743", "fee20147", "74e7cff8", "5188dbad", "cfd03458", "ed5fe145", "e9bfab90", "d195f669", "1a3029c2", "4ce116dd", "eec7be2a", "bdaa7c98", "f21f8e8c", "f4f98b96", "ad85c40b", "5d6ccd79", "5ee8ea31", "f87ee2ab", "217174d2", "01c4c1d1", "385249ea", "0e2993bb", "03f52653", "898a17d3"]
         },
         {
           "qul_id": 267,
@@ -500,7 +559,8 @@
           "name": "Bengali Abridged Explanation of the Quran",
           "repo": "Tafseer-Bengali",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Bengali@main/bengali-abridged-explanation-of-the-quran/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Bengali/main/bengali-abridged-explanation-of-the-quran/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Bengali/main/bengali-abridged-explanation-of-the-quran/{juz}.json",
+          "juz_fp": ["f244dedb", "aff7e078", "53271a32", "846839a5", "550a320f", "fd9c75b8", "8760b293", "01d76ef0", "7cbbbd32", "327cd4ba", "402c739f", "7d3ace17", "eb2d1c99", "3edf35b6", "8f233488", "d115ed12", "5a92ace6", "a4b2a596", "e99c7f54", "fbeb2ddd", "338a5d57", "cf08d550", "f590c1b8", "252741b1", "4b8e0377", "e3b49cb3", "b612accc", "a2510114", "5723ea69", "98f86dab"]
         }
       ]
     },
@@ -518,7 +578,8 @@
           "name": "Fi Zilal al-Quran",
           "repo": "Tafseer-Urdu",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Urdu@main/fi-zilal-al-quran/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Urdu/main/fi-zilal-al-quran/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Urdu/main/fi-zilal-al-quran/{juz}.json",
+          "juz_fp": ["0cb37305", "fdae7a44", "eb4bf734", "f37df8fb", "64c360cd", "d3c4f508", "541bb752", "6de10b27", "a8d23078", "f20dbe6b", "c91dadcc", "2c76ea84", "04097ae9", "f7e47bdc", "fea6836b", "9b176006", "697cb375", "0256a4c5", "9b646e28", "02062bcf", "56219bf3", "1a6c6414", "f9aeb6fd", "dc5842d0", "0419a7b1", "0576ac67", "01ede1fa", "512f670f", "9c4e5726", "646d6ef1"]
         },
         {
           "qul_id": 29,
@@ -526,7 +587,8 @@
           "name": "Tafsir Bayan ul Quran",
           "repo": "Tafseer-Urdu",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Urdu@main/bayan-ul-quran/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Urdu/main/bayan-ul-quran/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Urdu/main/bayan-ul-quran/{juz}.json",
+          "juz_fp": ["f7306354", "15a90a75", "305ef053", "adda234d", "d730ac37", "b94b8767", "cc5f4c0f", "00948a56", "fb391491", "bf627ed1", "6415c267", "c963a53d", "b26c750d", "c86179d6", "9dac7fb8", "9411ab14", "fe056650", "2c79faf0", "d41e136a", "4b1bda35", "12a6b89c", "59d54d25", "1aa993fc", "88ee1891", "7fe8021f", "93031d01", "d36deb32", "d5b0ebd7", "1a963847", "82d6e638"]
         },
         {
           "qul_id": 30,
@@ -534,7 +596,8 @@
           "name": "Tafsir Ibn Kathir",
           "repo": "Tafseer-Urdu",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Urdu@main/ibn-kathir/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Urdu/main/ibn-kathir/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Urdu/main/ibn-kathir/{juz}.json",
+          "juz_fp": ["74eae707", "63c925fd", "dbc7fe4b", "7a6f53e8", "22a61439", "982337d2", "dfe7c569", "703d5cb3", "9c904201", "ee53d050", "7c46afd7", "85271e74", "bc6478ee", "d989ce6c", "4207de6c", "0fd50110", "ecc195a3", "bcfdf982", "753a263b", "ae39857d", "18ed1d15", "8605483e", "c610752e", "aebc39bd", "857df49b", "e81bfa59", "57fccb7d", "deedce9b", "7a1f5846", "4ee27c0a"]
         },
         {
           "qul_id": 43,
@@ -542,7 +605,8 @@
           "name": "Tazkirul Quran(Maulana Wahiduddin Khan)",
           "repo": "Tafseer-Urdu",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Urdu@main/tazkirul-quranmaulana-wahiduddin-khan/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Urdu/main/tazkirul-quranmaulana-wahiduddin-khan/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Urdu/main/tazkirul-quranmaulana-wahiduddin-khan/{juz}.json",
+          "juz_fp": ["4ccd6e2c", "8f790edc", "aaac1490", "e84a15f6", "9009a081", "03aac474", "e4fb5f9d", "b139d9c5", "ad1bf777", "4df36fdd", "6535bbdd", "ac2245c2", "2a79e05f", "058fcf4d", "2c54aad8", "5038eb28", "74178f4d", "b6f4679a", "527969fe", "0e6f8529", "ffdba33a", "79d133c0", "162e76dd", "e8806788", "13a97fc4", "a79b269a", "2bb9b888", "00f42101", "fccf2a37", "536691d6"]
         },
         {
           "qul_id": 309,
@@ -550,7 +614,8 @@
           "name": "Tafsir As-Saadi - Urdu",
           "repo": "Tafseer-Urdu",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Urdu@main/as-saadi-urdu/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Urdu/main/as-saadi-urdu/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Urdu/main/as-saadi-urdu/{juz}.json",
+          "juz_fp": ["a6995ecb", "0cc93f35", "51ca9579", "d9ee9355", "b9dd3b6f", "2fa26ad2", "5170f69b", "efb5fa6e", "b3d2f205", "75f0aab4", "4894e9d1", "94b07475", "3266feac", "d19b9cdf", "326a5c7c", "47a672d6", "ee8ec279", "f951affb", "a4fe5ff6", "0375121c", "2bda2e1d", "573feb3a", "7413ef36", "70f76d5d", "c2acfddc", "6b12f112", "678fe074", "2de91a5e", "796d65f7", "0a3e4f1d"]
         }
       ]
     },
@@ -568,7 +633,8 @@
           "name": "Maarif-ul-Quran",
           "repo": "Tafseer-English",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-English@main/maarif-ul-quran/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-English/main/maarif-ul-quran/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-English/main/maarif-ul-quran/{juz}.json",
+          "juz_fp": ["21637f6f", "a79706a9", "49b39673", "a0697cc6", "6b3673a2", "a28793c8", "d9917c76", "a8d4cfce", "ecda8655", "0af51a02", "e739b238", "f1e622a3", "41cff8c7", "3d5436ee", "1381d363", "c37d63ea", "1f6192e1", "cb63ba0b", "2c8897cc", "29c66291", "fb3436c9", "6354d2cd", "766238d2", "58ed4b76", "0585810e", "0c1a7c72", "7046bd00", "ba6f7feb", "06b57c82", "0a1a6da5"]
         },
         {
           "qul_id": 35,
@@ -576,7 +642,8 @@
           "name": "Tafsir Ibn Kathir",
           "repo": "Tafseer-English",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-English@main/ibn-kathir/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-English/main/ibn-kathir/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-English/main/ibn-kathir/{juz}.json",
+          "juz_fp": ["6954b5ab", "20cfd362", "79ca0a3b", "5e1b825d", "4513a3b9", "e741b6b6", "cb77d60d", "f9e6b78d", "c11eeb80", "2e910a88", "2595ad2b", "a7276d1e", "f73ec284", "f895ec8f", "cffaabda", "484feeda", "c2d689c9", "199e0626", "d55498ab", "297e3be1", "ec17088a", "57b23044", "e4893541", "7e851b51", "e5039ee1", "00a54684", "689acf96", "fca92002", "51d7f8aa", "52424a39"]
         },
         {
           "qul_id": 42,
@@ -584,7 +651,8 @@
           "name": "Tazkirul Quran(Maulana Wahiduddin Khan)",
           "repo": "Tafseer-English",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-English@main/tazkirul-quranmaulana-wahiduddin-khan/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-English/main/tazkirul-quranmaulana-wahiduddin-khan/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-English/main/tazkirul-quranmaulana-wahiduddin-khan/{juz}.json",
+          "juz_fp": ["5894d475", "4bb75f8e", "45d93247", "ad407f07", "9d14abaf", "e37352d0", "76453e4c", "8e621332", "64dab863", "bf2c17a0", "4d8f5f72", "6d2b04ab", "0082829f", "ae0f0795", "fbb3ffd6", "716bada6", "ad998788", "ecc5ee13", "15c215dc", "4c496fc9", "f8050270", "e05572f2", "22d63f0b", "251eb47a", "0b7e5d3e", "3fd755f8", "53fc6560", "ecb1261a", "1062be91", "594a0062"]
         },
         {
           "qul_id": 266,
@@ -592,7 +660,8 @@
           "name": "English Al-Mukhtasar",
           "repo": "Tafseer-English",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-English@main/english-al-mukhtasar/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-English/main/english-al-mukhtasar/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-English/main/english-al-mukhtasar/{juz}.json",
+          "juz_fp": ["a752e5f5", "258ce410", "0f705d06", "caaa95ca", "0a950d01", "4d9984e5", "63ca5cd4", "0766be37", "ad3a0eb9", "4a3a3b47", "9dfc312e", "bac64904", "295ac887", "2a76bbd2", "1d664fef", "15e17056", "43d0121e", "d4e888eb", "45af8955", "2d714c03", "33308b10", "ce095d83", "5319d391", "118c2ee1", "42d50bba", "475cf287", "2b50e07e", "570901a6", "4873897d", "4477489c"]
         }
       ]
     },
@@ -610,7 +679,8 @@
           "name": "Tafseer Al Saadi - Russian",
           "repo": "Tafseer-Russian",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Russian@main/al-saadi-russian/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Russian/main/al-saadi-russian/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Russian/main/al-saadi-russian/{juz}.json",
+          "juz_fp": ["de119ed6", "018bb800", "045610d0", "e435c4bd", "faf05bb6", "12086c38", "f2943942", "6c9402e1", "47f0797d", "7a5c4427", "e7e7adf8", "1fc28fd9", "4a461ba4", "a2e04ebb", "4843228a", "a9a56d54", "4f799088", "ad2e9eaf", "482b743f", "e57fd794", "aad89bb2", "72b298bb", "d60d5e8e", "1f4e3ba8", "62497cf9", "b23434c2", "a17f7296", "a23b71b7", "c1d91f65", "ffe60659"]
         },
         {
           "qul_id": 262,
@@ -618,7 +688,8 @@
           "name": "Russian Al-Mukhtasar",
           "repo": "Tafseer-Russian",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Russian@main/russian-al-mukhtasar/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Russian/main/russian-al-mukhtasar/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Russian/main/russian-al-mukhtasar/{juz}.json",
+          "juz_fp": ["4140eaf2", "6bdb892f", "8fa07f58", "4a856bdf", "643d42bb", "78f04eb8", "8e4d790f", "04c59a01", "b9af117c", "fd1fb160", "fb8c8471", "01737d60", "16022599", "f185689b", "88678bdb", "6d36b9c7", "d1ad152d", "3406d5f2", "b260d50c", "7c137a5c", "12d4a9a5", "9f94f31e", "93b4c509", "ef72a712", "e16e21f0", "aae9c7cb", "454475ad", "3e3959f0", "62116602", "70cc238e"]
         },
         {
           "qul_id": 307,
@@ -626,7 +697,8 @@
           "name": "Tafsir Ibne Kathir",
           "repo": "Tafseer-Russian",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Russian@main/ibne-kathir/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Russian/main/ibne-kathir/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Russian/main/ibne-kathir/{juz}.json",
+          "juz_fp": ["b173a873", "cc8c3bc0", "cad437fc", "500c382b", "27132919", "4ec5ccf1", "25423964", "cdbea4ed", "0f5552a9", "9a0a7da1", "525787dc", "88f8db35", "21e70c82", "974eef7e", "7a30d2c3", "f4dda2da", "e12c9f52", "2e0c4dcf", "4733e7bf", "9f5fc6de", "59ce7c29", "adf7c01e", "331234b6", "897e963c", "8484e80e", "5c24ec15", "60aa5de6", "0c874c3d", "e50e8f5b", "33f75636"]
         },
         {
           "qul_id": 310,
@@ -634,7 +706,8 @@
           "name": "Tafsir As-Saadi",
           "repo": "Tafseer-Russian",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Russian@main/as-saadi/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Russian/main/as-saadi/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Russian/main/as-saadi/{juz}.json",
+          "juz_fp": ["9df5343b", "cf228b51", "abd0f09c", "d811eab1", "e8f419ac", "2ee385e1", "dd9d6d09", "980933eb", "83e20b62", "b0934a6c", "ed454f66", "050b3c72", "baa5e552", "0a594173", "f30bb79e", "c774cd97", "63adba4d", "dfca3e0d", "854fa777", "61aa6157", "fb10d97a", "25c29ba0", "013b474e", "21c9369f", "19875e36", "484b873c", "531c24f2", "b65aac96", "a29e7714", "bb9d9376"]
         }
       ]
     },
@@ -652,7 +725,8 @@
           "name": "Indoniesua Al-Mukhtasar in Interpreting the Noble Quran",
           "repo": "Tafseer-Indonesian",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Indonesian@main/indoniesua-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Indonesian/main/indoniesua-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Indonesian/main/indoniesua-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json",
+          "juz_fp": ["eb8f62c6", "563f325e", "1a73f4e4", "2fe0cdae", "5a8078c3", "373b7603", "7b6904be", "64508242", "804f74f5", "1295ab88", "f815dd7b", "857d9af7", "0ddcfb86", "af30feac", "53fc63e6", "9e4a0c1f", "1ca2c3de", "7bffa1b9", "319d61d9", "0f4ebd0a", "ca33514a", "63ff016e", "d58fcf92", "efffc137", "cd4cedec", "e8c80d36", "7d2c9662", "aad289a8", "63dae4fc", "ca252424"]
         },
         {
           "qul_id": 503,
@@ -660,7 +734,8 @@
           "name": "Tafsir As-Saadi - Indonesian",
           "repo": "Tafseer-Indonesian",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Indonesian@main/as-saadi-indonesian/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Indonesian/main/as-saadi-indonesian/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Indonesian/main/as-saadi-indonesian/{juz}.json",
+          "juz_fp": ["a9e0129d", "2c4a1e6d", "a6ade7b7", "ae1e1b5b", "3a4b8ac3", "dc2d1cb5", "f323ea4d", "c1ad9bae", "f7430d57", "85fe8904", "8605d67c", "61604d34", "5878ad14", "8d3f856a", "c5bd050d", "3ceceef1", "4159cc6c", "5df47b4c", "f1d33575", "5d74c574", "efbca381", "abc58842", "40890e57", "6775e6ed", "21c34144", "093347d2", "e4fa79ed", "0064ff3e", "e5c8663c", "f3c8ae7d"]
         }
       ]
     },
@@ -678,7 +753,8 @@
           "name": "Turkish Al-Mukhtasar in Interpreting the Noble Quran",
           "repo": "Tafseer-Turkish",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Turkish@main/turkish-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Turkish/main/turkish-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Turkish/main/turkish-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json",
+          "juz_fp": ["1a118af4", "0d5424c4", "ded75dbc", "67132cba", "b7fde72e", "958a0766", "ab39a6c2", "159a0454", "3dde613e", "82d3974f", "d752fc94", "83e4a161", "2e841c02", "8ae79ebe", "388eec1d", "e6c40a33", "3f8892f9", "f3c56279", "01ee4a9b", "b8755c56", "eac2eafc", "b4792276", "b39166e5", "0465fd69", "0bee016a", "3c4f0f9c", "4dcc75e0", "3306b3f5", "53690bd5", "c409884d"]
         },
         {
           "qul_id": 306,
@@ -686,7 +762,8 @@
           "name": "Tafsir Ibne Kathir",
           "repo": "Tafseer-Turkish",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Turkish@main/ibne-kathir/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Turkish/main/ibne-kathir/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Turkish/main/ibne-kathir/{juz}.json",
+          "juz_fp": ["a8fe615b", "6f7e55d9", "f8effb32", "830b0c2e", "5803a24e", "07adf847", "bee6e47c", "6f851d5b", "b92965d4", "e0a23e2d", "0ef58b1c", "aaf8b74d", "7c99e875", "3ec28e04", "39ae0938", "dc7ebe0c", "6238688d", "573bc1a5", "43c137df", "560a7b5f", "8860128e", "32888f0f", "16babc48", "759aa3d9", "2e26794f", "7903d692", "30df26ad", "f811d46e", "43da47e6", "34b98471"]
         },
         {
           "qul_id": 484,
@@ -694,7 +771,8 @@
           "name": "Tafsir As-Saadi - Turkish",
           "repo": "Tafseer-Turkish",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Turkish@main/as-saadi-turkish/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Turkish/main/as-saadi-turkish/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Turkish/main/as-saadi-turkish/{juz}.json",
+          "juz_fp": ["1dbbc7bd", "c7324e11", "1bcdb1f3", "af18b2be", "26adad46", "9e8255f5", "ff6f536b", "5408d2bb", "41f7bd02", "a7622ab8", "c4031027", "c3f19955", "89eb21e2", "c12f9536", "7215bb4e", "29329802", "ed642294", "095474ec", "d315087d", "32366bbd", "86f16905", "ad377e32", "d4bf7129", "3ca1644e", "8f8b8029", "01ba822f", "00c92bb6", "b4f6eb20", "b5189a59", "b19a4dbe"]
         }
       ]
     },
@@ -712,7 +790,8 @@
           "name": "Rebar Kurdish Tafsir",
           "repo": "Tafseer-Kurdish",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Kurdish@main/rebar-kurdish-tafsir/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Kurdish/main/rebar-kurdish-tafsir/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Kurdish/main/rebar-kurdish-tafsir/{juz}.json",
+          "juz_fp": ["f2f9ab6f", "d6a4a483", "71ad1057", "e1152de4", "01fb47b5", "c2db2e5a", "0aa30cce", "d11f086c", "5b34698f", "691d0be5", "a49399b5", "6eb66dc9", "93cdc2b4", "d7642c99", "5a580dbe", "df30bf09", "a1bc14b2", "b6faadfa", "bc98a2a3", "803b0ccc", "50d57a80", "1620bf95", "733ff0e1", "f9443b53", "b239f6a0", "bcc109ec", "59e9831f", "01119513", "2b815fbf", "b027da13"]
         },
         {
           "qul_id": 542,
@@ -720,7 +799,8 @@
           "name": "Kurdish Mokhtasar",
           "repo": "Tafseer-Kurdish",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Kurdish@main/kurdish-mokhtasar/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Kurdish/main/kurdish-mokhtasar/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Kurdish/main/kurdish-mokhtasar/{juz}.json",
+          "juz_fp": ["f85c151f", "0cc9767b", "09d1eae0", "9e033683", "e3422e8d", "4e4a4020", "8175bd1c", "8a2d9550", "896eb308", "69817cbf", "babdd40f", "ed070cd1", "078e3792", "88076052", "093526a2", "9ee4a1d8", "44a64174", "29754da1", "b29c7293", "2e9f82ee", "7a62bff1", "6a96ddc9", "506c840b", "3b1d9ddd", "038acc80", "9e69022f", "9a001971", "877c3f0b", "b7e7f119", "3d3cfac6"]
         }
       ]
     },
@@ -738,7 +818,8 @@
           "name": "Persian Al-Mukhtasar in interpreting the Noble Quran",
           "repo": "Tafseer-Persian",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Persian@main/persian-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Persian/main/persian-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Persian/main/persian-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json",
+          "juz_fp": ["96fb1e2d", "f1d76ec4", "459eb5b6", "fc04835a", "90eaa3fc", "ea924179", "eef3efaa", "e8c3d0c0", "403074e6", "c7595ce3", "fb6775d0", "554ee60b", "b0d045fc", "674f7d65", "9afd1589", "37914b4f", "c7559f96", "0deb4d18", "4eff32d5", "7dab89ff", "5829e9a6", "1da1012a", "52188158", "04109210", "6be28e04", "1e10e8e0", "4f8911be", "fdb20b45", "951db8da", "a75a9ac7"]
         },
         {
           "qul_id": 485,
@@ -746,7 +827,8 @@
           "name": "Tafsir As-Saadi - Persian",
           "repo": "Tafseer-Persian",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Persian@main/as-saadi-persian/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Persian/main/as-saadi-persian/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Persian/main/as-saadi-persian/{juz}.json",
+          "juz_fp": ["7ea60fda", "da08001d", "39cf938a", "981b45ab", "dc24d364", "9d22ecea", "f09aa349", "b674e5bb", "d61365f7", "f3f49ed7", "0b662b2f", "6c1003b5", "45332dc9", "1bec80e9", "416aadc1", "ca0ba727", "f756478f", "ea023918", "ef75c039", "8ffb82b7", "b8ab4c0a", "d54a98b2", "eef2428d", "3ecb4a91", "f852f1d4", "f980a118", "93889127", "f92ab700", "1add7664", "0c0e095b"]
         }
       ]
     },
@@ -764,7 +846,8 @@
           "name": "Tafsir As-Saadi",
           "repo": "Tafseer-Albanian",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Albanian@main/as-saadi/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Albanian/main/as-saadi/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Albanian/main/as-saadi/{juz}.json",
+          "juz_fp": ["5eb94acb", "d4737dd8", "a2211211", "2052ff3a", "7f98695b", "882ca686", "3341d1e5", "c15ced1b", "69406107", "c75cf84d", "9fecf84e", "26f3c629", "f2af6e73", "0564dc2b", "66cccd5b", "fb497996", "ab0729ca", "0c38857e", "46db876f", "461f6f8d", "5272d8a1", "ed9f1707", "f78c334a", "ce6c16c5", "4815fef6", "d3e48370", "b9e59ff6", "20516cdd", "524c0f25", "c6e91c90"]
         }
       ]
     },
@@ -782,7 +865,8 @@
           "name": "Assamese Abridged Explanation of the Quran",
           "repo": "Tafseer-Assamese",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Assamese@main/assamese-abridged-explanation-of-the-quran/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Assamese/main/assamese-abridged-explanation-of-the-quran/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Assamese/main/assamese-abridged-explanation-of-the-quran/{juz}.json",
+          "juz_fp": ["2a2b10b0", "5dffcca6", "b1d00c70", "1100e1aa", "31c8d14d", "6d36ceea", "61835aa4", "1bae7692", "eab9729d", "79f74131", "e5601837", "487d5e7f", "6fb9155b", "b7c3dabe", "cef04b04", "84527134", "d19f6887", "fc9662a8", "d5ccae1d", "c8d8084e", "aa01b25a", "939f88ce", "64ad0eae", "68c94672", "2ce89503", "90687123", "57b371b0", "25883b7e", "b5de5480", "b1d120e0"]
         }
       ]
     },
@@ -800,7 +884,8 @@
           "name": "Azeri Mokhtasar",
           "repo": "Tafseer-Azeri",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Azeri@main/azeri-mokhtasar/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Azeri/main/azeri-mokhtasar/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Azeri/main/azeri-mokhtasar/{juz}.json",
+          "juz_fp": ["5364e268", "e313be9e", "48213a44", "820bcdac", "81b942e8", "49e14c76", "9fd30876", "42f3abeb", "0728cab9", "f71937fa", "efa6fd48", "5efd8677", "d4f3ba18", "8ececfd6", "d3a1bf89", "7892e7b4", "ebe8eb41", "865e531d", "6f89d39d", "dc917c26", "59d36983", "e3265214", "e752224a", "dc728f82", "eda83b38", "ae93c221", "3870c46d", "661e3f0f", "8cda0527", "0f0d5579"]
         }
       ]
     },
@@ -818,7 +903,8 @@
           "name": "Bosnian Abridged Explanation of the Quran",
           "repo": "Tafseer-Bosnian",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Bosnian@main/bosnian-abridged-explanation-of-the-quran/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Bosnian/main/bosnian-abridged-explanation-of-the-quran/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Bosnian/main/bosnian-abridged-explanation-of-the-quran/{juz}.json",
+          "juz_fp": ["7002c56d", "cd9bf973", "6abc9690", "b1aeb6a6", "d2fc8704", "f224e4ef", "fdb10e7b", "b00c215b", "627b50f4", "e01d3659", "43c1ce1e", "d8244a41", "294e8136", "c6cb0d5c", "f4a63f1e", "4a4649dc", "2a3f0ea2", "de614b91", "36071e16", "17e4d8a1", "493235cd", "0e35ecda", "8d6544c3", "7ddd744d", "a030a2fd", "eb9f048b", "c9651187", "50c5510f", "d6baece7", "a51db7b3"]
         }
       ]
     },
@@ -836,7 +922,8 @@
           "name": "Chinese Abridged Explanation of the Quran",
           "repo": "Tafseer-Chinese",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Chinese@main/chinese-abridged-explanation-of-the-quran/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Chinese/main/chinese-abridged-explanation-of-the-quran/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Chinese/main/chinese-abridged-explanation-of-the-quran/{juz}.json",
+          "juz_fp": ["a0863cd5", "0e02fded", "d0d5f116", "cfa80cbb", "7204e5b5", "3d84c1ce", "0732c462", "e6fbf37f", "dabdc2ce", "0eaf2cd8", "764b5a95", "9d6dc05d", "fff50935", "bd0fe732", "f21c3731", "c619e1a9", "15c981c5", "729dd447", "8d7fd2ff", "3c13ac5a", "4a798cd1", "530bbe5c", "87e8fe78", "91d6202c", "fb6d9d29", "0ed7a623", "59b8b14e", "df595900", "9f7e3319", "639ccecd"]
         }
       ]
     },
@@ -854,7 +941,8 @@
           "name": "Filipino (Tagalog) Al-Mukhtasar in interpreting the Noble Quran",
           "repo": "Tafseer-Filipino",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Filipino@main/filipino-tagalog-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Filipino/main/filipino-tagalog-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Filipino/main/filipino-tagalog-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json",
+          "juz_fp": ["a71a1253", "37b834f0", "e872d6bd", "3a4746ab", "dc2d5196", "22ab57e8", "ff95b1b7", "62afb94b", "c9e2bd8a", "d3d05293", "629cdcde", "4548aa87", "dc29c255", "8da14ac7", "5b39c2fc", "4f7f88ab", "341a7d9b", "f341f4a8", "b21615c5", "6500d077", "f4cfde09", "a2a72194", "8cb9a5e9", "57201de1", "a32a1ed2", "dfcaacf6", "fb774aa5", "8d4c25b8", "7d1b8b0e", "764d5478"]
         }
       ]
     },
@@ -872,7 +960,8 @@
           "name": "French Abridged Explanation of the Quran",
           "repo": "Tafseer-French",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-French@main/french-abridged-explanation-of-the-quran/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-French/main/french-abridged-explanation-of-the-quran/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-French/main/french-abridged-explanation-of-the-quran/{juz}.json",
+          "juz_fp": ["47a22eee", "6f417d0a", "cb18336d", "41533836", "214da373", "70ad1bed", "1c48e5f0", "e0829fcf", "dcb56b21", "bad7189c", "0821d230", "36e2ea2a", "8f63c8e1", "7c7a1b27", "d1253da6", "e5a692ee", "991c0eee", "11881d44", "72bccb56", "71461cdf", "33cbe936", "4f3f85fa", "d4bb8b08", "32d105a1", "35955894", "c37b5bd8", "180a0b4d", "ca77c50d", "a83b179e", "84fba6bb"]
         }
       ]
     },
@@ -890,7 +979,8 @@
           "name": "Fulani Mokhtasar",
           "repo": "Tafseer-Fulani",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Fulani@main/fulani-mokhtasar/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Fulani/main/fulani-mokhtasar/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Fulani/main/fulani-mokhtasar/{juz}.json",
+          "juz_fp": ["bc1416f8", "0684ac7f", "67ccbd01", "e2f0b002", "7a483ac9", "87cffc73", "bacc81fe", "34815057", "c96c5c4d", "7d5f8143", "92cc63ce", "36708b9e", "9cd995fd", "6aa81c3e", "ef937a94", "8dc3c648", "a6d61fee", "37d95263", "397635ef", "2154b4df", "dd12b11a", "20f373fc", "2db915d7", "ca8b6a07", "6fa5372d", "31200337", "568c51aa", "6459b028", "4eadab56", "dd09210d"]
         }
       ]
     },
@@ -908,7 +998,8 @@
           "name": "Hindi Mokhtasar",
           "repo": "Tafseer-Hindi",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Hindi@main/hindi-mokhtasar/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Hindi/main/hindi-mokhtasar/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Hindi/main/hindi-mokhtasar/{juz}.json",
+          "juz_fp": ["5f74ac92", "0212431e", "51d59d39", "a90c7745", "f91d1b5d", "52a15147", "cb7dd9e6", "2835ac25", "a5ef0b0b", "33cf492e", "c6259357", "86165eb2", "81248cb2", "91675181", "19152267", "1cdf75ae", "dc500269", "077d8e6c", "b60dbabf", "e8f6b88e", "52155071", "e2f93c40", "66a6de99", "4a0a4b22", "7321ab30", "80e8601a", "1d9fed23", "f15822d6", "f2a97ffe", "9a681e34"]
         }
       ]
     },
@@ -926,7 +1017,8 @@
           "name": "Italian Al-Mukhtasar in interpreting the Noble Quran",
           "repo": "Tafseer-Italian",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Italian@main/italian-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Italian/main/italian-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Italian/main/italian-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json",
+          "juz_fp": ["d23526a7", "0f143be8", "59453834", "578d8036", "b213a619", "d7024273", "d36a4d14", "e9a9092b", "b41505ca", "61283c1a", "76062542", "cec64095", "5a0c8424", "16b9a9dc", "b8bf8cd8", "1d16db1c", "1bf2b2f1", "c098e089", "cff2025f", "143deec7", "d25bcf6a", "0f3f1907", "bb41f1cf", "4fe6ae32", "ac76f12b", "664947ac", "1ac6637e", "aa4737c3", "f5ee1277", "78c92eba"]
         }
       ]
     },
@@ -944,7 +1036,8 @@
           "name": "Japanese Abridged Explanation of the Quran",
           "repo": "Tafseer-Japanese",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Japanese@main/japanese-abridged-explanation-of-the-quran/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Japanese/main/japanese-abridged-explanation-of-the-quran/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Japanese/main/japanese-abridged-explanation-of-the-quran/{juz}.json",
+          "juz_fp": ["9a4ea905", "ceb91807", "aeeb665b", "a4bbec5a", "19fffd8d", "2334cb81", "4f33927d", "1a46974c", "df87b055", "6dd09485", "6a7afd63", "b05534f3", "79efa9e1", "6ef11b64", "9211ea09", "88263262", "feb2f1b6", "89a23c45", "6d851615", "7d6d3547", "774bd43e", "21db2151", "51f39a51", "0752fa64", "65d0a42a", "1e34c214", "102ae5fd", "289a40b2", "0d47c4d0", "08265069"]
         }
       ]
     },
@@ -962,7 +1055,8 @@
           "name": "Khmer Abridged Explanation of the Quran",
           "repo": "Tafseer-Khmer",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Khmer@main/khmer-abridged-explanation-of-the-quran/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Khmer/main/khmer-abridged-explanation-of-the-quran/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Khmer/main/khmer-abridged-explanation-of-the-quran/{juz}.json",
+          "juz_fp": ["4cdd5c82", "3c4c9e71", "54dac547", "99a8faed", "8df4daeb", "76d7537b", "9bf1e3a6", "4ecf0715", "4dceabd8", "1be07ea2", "4d6ae5b4", "485d955c", "2b0f08bb", "117ea6b8", "f73bcb5c", "08f92e32", "0296e7b7", "bd03025a", "c6c2dda7", "50921f0c", "da2ae45f", "8d214401", "89c74d56", "cb41d92a", "d4887f9e", "8460e444", "5b1b015c", "a11229b8", "8314e76d", "49affef0"]
         }
       ]
     },
@@ -980,7 +1074,8 @@
           "name": "Kyrgyz Mokhtasar",
           "repo": "Tafseer-Kyrgyz",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Kyrgyz@main/kyrgyz-mokhtasar/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Kyrgyz/main/kyrgyz-mokhtasar/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Kyrgyz/main/kyrgyz-mokhtasar/{juz}.json",
+          "juz_fp": ["c6d6d07c", "bcafeaba", "730c600c", "e3acb820", "98ba828c", "c1ba6cda", "4aa3f76b", "bac75e4a", "f5f1e84a", "1bff7ff5", "72767106", "f24a458b", "3126b7d7", "c5b97bed", "7007b2be", "5f438475", "8e81cd70", "28a7707e", "4c98cc5b", "61e7b341", "b6935435", "0d11e6a3", "6e3feec7", "11713a32", "93f390a6", "41ab6a41", "3c00287d", "02467a5b", "d4dac64d", "dbbb2678"]
         }
       ]
     },
@@ -998,7 +1093,8 @@
           "name": "Malayalam Abridged Explanation of the Quran",
           "repo": "Tafseer-Malayalam",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Malayalam@main/malayalam-abridged-explanation-of-the-quran/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Malayalam/main/malayalam-abridged-explanation-of-the-quran/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Malayalam/main/malayalam-abridged-explanation-of-the-quran/{juz}.json",
+          "juz_fp": ["a64e39ce", "737f19b4", "5fd22b88", "48ce2ecd", "1a2d0ea3", "a9a578f2", "abf92643", "d4a341d7", "6d55ce7c", "4abdfcc9", "cb2bb5c8", "37305d2d", "2942a8a4", "cc2deec8", "1c9381c1", "39534960", "c73d0385", "9b84ab03", "988cff53", "fc4b3bf4", "c63acb01", "eb5a5caf", "93d25288", "eac20048", "d5efb5c6", "f7e3a2c5", "4a7b8f05", "f44cdc22", "7409f8ae", "3bd8ee0a"]
         }
       ]
     },
@@ -1016,7 +1112,8 @@
           "name": "Pashto Mokhtasar",
           "repo": "Tafseer-Pashto",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Pashto@main/pashto-mokhtasar/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Pashto/main/pashto-mokhtasar/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Pashto/main/pashto-mokhtasar/{juz}.json",
+          "juz_fp": ["582887fb", "1c5a75bd", "722fd926", "457f20e4", "81478a9c", "b27a28c3", "1b5f3698", "4aad0d20", "e17ea015", "19d5283a", "5f55e54b", "06637178", "174f8b04", "d8ddd9f2", "e048855e", "4493344e", "a1f192c9", "d0807e95", "9d416ff3", "0db5d060", "dacf5b88", "e42a7494", "c319e437", "c71ecf6e", "fb6be066", "9d477dc7", "a0f8968d", "205be352", "0dd08852", "258cbaf9"]
         }
       ]
     },
@@ -1034,7 +1131,8 @@
           "name": "Serbian Mokhtasar",
           "repo": "Tafseer-Serbian",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Serbian@main/serbian-mokhtasar/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Serbian/main/serbian-mokhtasar/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Serbian/main/serbian-mokhtasar/{juz}.json",
+          "juz_fp": ["94b38c7d", "f1f11e2a", "0dfe315a", "fcf7f13a", "3e1d2f45", "8dc29311", "dd3c5755", "5c831ef2", "ba1cc8fe", "bf934028", "be08a8bd", "8de200cd", "1de02aea", "a58b01f1", "02494538", "2279ae59", "1842f0e3", "796d9e15", "a1132c23", "b64328b9", "6cb9c5f2", "7c769aca", "a8476163", "c6b44dff", "706eb23f", "b13f0954", "d3385d77", "b8b70fac", "24bf3237", "93d2c5e6"]
         }
       ]
     },
@@ -1052,7 +1150,8 @@
           "name": "Sinhalese Mokhtasar",
           "repo": "Tafseer-Sinhala",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Sinhala@main/sinhalese-mokhtasar/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Sinhala/main/sinhalese-mokhtasar/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Sinhala/main/sinhalese-mokhtasar/{juz}.json",
+          "juz_fp": ["fbfb227a", "2d78e66a", "3ac17a9b", "21a52492", "f71a6594", "071cea1f", "478e8742", "ba23f029", "8a688899", "c2c4e395", "d28ff7fe", "21ee3470", "6550ecfe", "42c7bd77", "06547776", "358fa6b1", "75518867", "723720aa", "6885629f", "0d241169", "b5c216fe", "82553b92", "53b1b264", "1fa02971", "c0da63fa", "55ec42ba", "2b726c9b", "08e25863", "bb7877c1", "53cbdc17"]
         }
       ]
     },
@@ -1070,7 +1169,8 @@
           "name": "Spanish Abridged Explanation of the Quran",
           "repo": "Tafseer-Spanish",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Spanish@main/spanish-abridged-explanation-of-the-quran/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Spanish/main/spanish-abridged-explanation-of-the-quran/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Spanish/main/spanish-abridged-explanation-of-the-quran/{juz}.json",
+          "juz_fp": ["ae14a835", "2e966938", "83d09ef1", "2e4edc84", "e47e4ea8", "58a48ca8", "05ec488c", "99536ed5", "213694e4", "e83aeb44", "c809420f", "a4b88e61", "f5f736b0", "d1f10fb4", "881f61cd", "918c8b27", "1d794be5", "0ee96ee3", "8cbe88f0", "f07a2d15", "37b31775", "3050d165", "73ed734f", "31b1786d", "baf8e1e2", "b403ae0d", "09d26b27", "8c99fa23", "d5ceb75c", "9b96b1d8"]
         }
       ]
     },
@@ -1088,7 +1188,8 @@
           "name": "Tamil Mokhtasar",
           "repo": "Tafseer-Tamil",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Tamil@main/tamil-mokhtasar/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Tamil/main/tamil-mokhtasar/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Tamil/main/tamil-mokhtasar/{juz}.json",
+          "juz_fp": ["69c221b5", "f4a78e7e", "5268689c", "28bb247c", "49b65c0c", "c51da502", "9a2c854e", "b133f76c", "2a277af9", "9fa9fef0", "a01b0584", "f740ca36", "287b5d1a", "87bd6f79", "8d19e0d0", "99f3d6bd", "d2a7dd6f", "aab21952", "e4c44848", "6f040f94", "ee4f5120", "eae87940", "723b549c", "ec6315da", "d49caf7d", "b2387db4", "50513d9e", "52eac86f", "b16da514", "357f7633"]
         }
       ]
     },
@@ -1106,7 +1207,8 @@
           "name": "Telugu Mokhtasar",
           "repo": "Tafseer-Telugu",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Telugu@main/telugu-mokhtasar/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Telugu/main/telugu-mokhtasar/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Telugu/main/telugu-mokhtasar/{juz}.json",
+          "juz_fp": ["007786eb", "079d55e8", "fcb113b6", "3f922f82", "899ed95a", "e32b085c", "f462d21e", "765633c7", "c7aaf3f7", "ea4eb15f", "052096eb", "3f0d564f", "19274dc5", "0c7298a5", "f3f7217b", "94c0bcad", "aa1a7b90", "b3c1faf0", "8dc6c62b", "923bb2a1", "57798982", "dd1245d6", "50888135", "953f6408", "ab262c2d", "2bd8d86e", "fe93f3fd", "34431288", "e90bedb4", "b620312e"]
         }
       ]
     },
@@ -1124,7 +1226,8 @@
           "name": "Thai Mokhtasar",
           "repo": "Tafseer-Thai",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Thai@main/thai-mokhtasar/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Thai/main/thai-mokhtasar/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Thai/main/thai-mokhtasar/{juz}.json",
+          "juz_fp": ["015cdd74", "a3302535", "426df640", "f4ea5bfb", "093ef305", "b4c1fc24", "e16f5784", "b6e9696d", "86a64ccc", "8c655140", "bc257cee", "c1135a37", "68ec66fc", "e077373c", "5f5f3ebf", "c32b1f90", "17e47fb0", "a8e86b62", "de0d9398", "e536ea7f", "873ea624", "029aca0d", "aba2807a", "ef15b6c7", "591f4db1", "70be1b13", "2a449d21", "73220e9c", "9a5df83f", "36818a42"]
         }
       ]
     },
@@ -1142,7 +1245,8 @@
           "name": "Uyghur Mokhtasar",
           "repo": "Tafseer-Uyghur",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Uyghur@main/uyghur-mokhtasar/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Uyghur/main/uyghur-mokhtasar/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Uyghur/main/uyghur-mokhtasar/{juz}.json",
+          "juz_fp": ["77cc0c8b", "9bb1af1f", "dd1d7283", "3ee1c530", "c53cf5bd", "2dfbeb26", "b8a6da86", "efafdbfe", "42b4513f", "d4a85919", "2999b4d0", "09ac9411", "8953f4fb", "3d33e343", "d1bf9af5", "11c3685a", "ed818b95", "99c1d87f", "1c1196da", "36c5eff8", "e0235072", "2b768248", "973cf8cd", "1b50ef09", "450d3c52", "4b1e8622", "2ee8272e", "d4cea1a6", "58c05002", "9bbaa935"]
         }
       ]
     },
@@ -1160,7 +1264,8 @@
           "name": "Uzbek Mokhtasar",
           "repo": "Tafseer-Uzbek",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Uzbek@main/uzbek-mokhtasar/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Uzbek/main/uzbek-mokhtasar/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Uzbek/main/uzbek-mokhtasar/{juz}.json",
+          "juz_fp": ["906037fa", "4601a329", "07e25470", "1f21a8fd", "a261961a", "673f399f", "8c92a962", "610ab1a2", "8f02392c", "82231522", "888cf11a", "63e0d8c4", "055b6ca7", "51d281f3", "3ced36fa", "24576533", "9117ade4", "ab018995", "52c22b36", "d713fc7d", "31f4f69b", "1b2c43b3", "fc11e746", "6d760609", "86bef3ee", "94e02694", "e248508e", "70938d41", "6679eba7", "6a1f9081"]
         }
       ]
     },
@@ -1178,7 +1283,8 @@
           "name": "Vietnamese Al-Mukhtasar in interpreting the Noble Quran",
           "repo": "Tafseer-Vietnamese",
           "juz_url": "https://cdn.jsdelivr.net/gh/manaf/Tafseer-Vietnamese@main/vietnamese-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json",
-          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Vietnamese/main/vietnamese-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json"
+          "juz_url_fallback": "https://raw.githubusercontent.com/manaf/Tafseer-Vietnamese/main/vietnamese-al-mukhtasar-in-interpreting-the-noble-quran/{juz}.json",
+          "juz_fp": ["1fd61258", "63bb3fdd", "bf3142ce", "8495a528", "6b38b817", "b69da77e", "5dd1b692", "550be3d0", "714912dd", "853aae64", "0199919b", "835dd96d", "a3ac0a52", "2281a4f8", "e2448720", "4bb282d1", "4ef1777c", "000dec91", "d3c80e78", "192dcef8", "51a5c570", "ffea4dd1", "fde76ee1", "c281f4cb", "7843ee0f", "5fc1773b", "3dcbdaec", "d22b04e5", "559803ae", "6c2c792e"]
         }
       ]
     }
